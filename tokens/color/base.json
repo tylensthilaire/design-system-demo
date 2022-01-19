@@ -1,5 +1,5 @@
 {
-  "theme 1": {
+  "theme1": {
     "color": {
       "base": {
         "gray": {
@@ -12,7 +12,7 @@
       }
     }
   },
-  "theme 2": {
+  "theme2": {
     "color": {
       "base": {
         "gray2": {

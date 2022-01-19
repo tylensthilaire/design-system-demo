@@ -1,0 +1,41 @@
+{
+  "theme1": {
+    "color": {
+      "base": {
+        "gray": {
+          "light": "#CCCCCC",
+          "medium": "#999999",
+          "dark": "#111111"
+        },
+        "red": "#FF0000",
+        "green": "#00FF00"
+      }
+    }
+  },
+  "theme2": {
+    "color": {
+      "base": {
+        "gray2": {
+          "light2": "#CCCCCC",
+          "medium2": "#999999",
+          "dark2": "#111111"
+        },
+        "red2": "#FF0000",
+        "green2": "#00FF00"
+      }
+    }
+  },
+  "font": {
+    "base": "#FF0000",
+    "secondary": "#00FF00",
+    "tertiary": "#CCCCCC"
+  },
+  "size": {
+    "font": {
+      "small": "0.75px",
+      "medium": "1px",
+      "large": "2px",
+      "base": "1px"
+    }
+  }
+}

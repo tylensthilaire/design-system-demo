@@ -9,6 +9,14 @@
         "format": "scss/variables"
       }]
     },
+    "json": {
+      "transformGroup": "web",
+      "buildPath": "build/json/",
+      "files": [{
+        "destination": "output.json",
+        "format": "json/nested"
+      }]
+    },
     "android": {
       "transformGroup": "android",
       "buildPath": "build/android/",
