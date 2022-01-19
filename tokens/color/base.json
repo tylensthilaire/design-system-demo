@@ -1,13 +1,28 @@
 {
-  "color": {
-    "base": {
-      "gray": {
-        "light" : { "value": "#CCCCCC" },
-        "medium": { "value": "#999999" },
-        "dark"  : { "value": "#111111" }
-      },
-      "red": { "value": "#FF0000" },
-      "green": { "value": "#00FF00" }
+  "theme 1": {
+    "color": {
+      "base": {
+        "gray": {
+          "light" : { "value": "#CCCCCC" },
+          "medium": { "value": "#999999" },
+          "dark"  : { "value": "#111111" }
+        },
+        "red": { "value": "#FF0000" },
+        "green": { "value": "#00FF00" }
+      }
     }
-  }
+  },
+  "theme 2": {
+    "color": {
+      "base": {
+        "gray2": {
+          "light2" : { "value": "#CCCCCC" },
+          "medium2": { "value": "#999999" },
+          "dark2"  : { "value": "#111111" }
+        },
+        "red2": { "value": "#FF0000" },
+        "green2": { "value": "#00FF00" }
+      }
+    }
+  },
 }
