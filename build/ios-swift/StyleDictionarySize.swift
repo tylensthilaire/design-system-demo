@@ -4,14 +4,16 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Jan 2022 20:19:38 GMT
+// Generated on Tue, 25 Jan 2022 18:21:30 GMT
 
 
 import UIKit
 
 public enum StyleDictionarySize {
-    public static let fontBase = CGFloat(16.00) /* the base size of the font */
-    public static let fontLarge = CGFloat(32.00) /* the large size of the font */
-    public static let fontMedium = CGFloat(16.00) /* the medium size of the font */
-    public static let fontSmall = CGFloat(12.00) /* the small size of the font */
+    public static let 2xl = CGFloat(64.00) *2 *2 *2 *2 *2
+    public static let l = CGFloat(64.00) *2 *2 *2
+    public static let m = CGFloat(64.00) *2 *2
+    public static let s = CGFloat(64.00) *2
+    public static let xl = CGFloat(64.00) *2 *2 *2 *2
+    public static let xs = CGFloat(64.00)
 }

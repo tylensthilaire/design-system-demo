@@ -4,20 +4,20 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 18 Jan 2022 16:26:55 GMT
+// Generated on Tue, 25 Jan 2022 10:04:27 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorBaseGrayLight,
-ColorBaseGrayMedium,
-ColorBaseGrayDark,
-ColorBaseRed,
-ColorBaseGreen,
-ColorFontBase,
-ColorFontSecondary,
-ColorFontTertiary
+ColorPrimary,
+ColorText,
+ColorStroke,
+ColorSecondary,
+ColorColorPrimary,
+ColorColorText,
+ColorColorStroke,
+ColorColorSecondary
 };
 
 @interface StyleDictionaryColor : NSObject

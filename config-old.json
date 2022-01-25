@@ -14,7 +14,7 @@
       "buildPath": "build/json/",
       "files": [{
         "destination": "output.json",
-        "format": "json/nested"
+        "format": "json"
       }]
     },
     "android": {
