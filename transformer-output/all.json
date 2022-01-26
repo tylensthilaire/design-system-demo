@@ -1,47 +1,47 @@
 {
   "color-primary": {
     "100": {
-      "value": "rgba($color-primary.primary, 0.1)",
+      "value": "#1928721a",
       "description": "10 % de la color primaire.",
       "type": "color"
     },
     "200": {
-      "value": "rgba($color-primary.primary, 0.2)",
+      "value": "#19287233",
       "description": "20 % de la couleur primaire.",
       "type": "color"
     },
     "300": {
-      "value": "rgba($color-primary.primary, 0.3)",
+      "value": "#1928724d",
       "description": "30 % de la couleur primaire.",
       "type": "color"
     },
     "400": {
-      "value": "rgba($color-primary.primary, 0.4)",
+      "value": "#19287266",
       "description": "40 % de la couleur primaire.",
       "type": "color"
     },
     "500": {
-      "value": "rgba($color-primary.primary, 0.5)",
+      "value": "#19287280",
       "description": "50 % de la couleur primaire.",
       "type": "color"
     },
     "600": {
-      "value": "rgba($color-primary.primary, 0.6)",
+      "value": "#19287299",
       "description": "60 % de la couleur primaire.",
       "type": "color"
     },
     "700": {
-      "value": "rgba($color-primary.primary, 0.7)",
+      "value": "#192872b3",
       "description": "70 % de la couleur primaire.",
       "type": "color"
     },
     "800": {
-      "value": "rgba($color-primary.primary, 0.8)",
+      "value": "#192872cc",
       "description": "80 % de la couleur primaire.",
       "type": "color"
     },
     "900": {
-      "value": "rgba($color-primary.primary, 0.9)",
+      "value": "#192872e6",
       "description": "90 % de la couleur primaire.",
       "type": "color"
     },
@@ -53,47 +53,47 @@
   },
   "color-secondary": {
     "100": {
-      "value": "rgba($color-secondary.secondary, 0.1)",
+      "value": "#0b5db71a",
       "description": "10 % de la couleur secondaire.",
       "type": "color"
     },
     "200": {
-      "value": "rgba($color-secondary.secondary, 0.2)",
+      "value": "#0b5db733",
       "description": "20 % de la couleur secondaire.",
       "type": "color"
     },
     "300": {
-      "value": "rgba($color-secondary.secondary, 0.3)",
+      "value": "#0b5db74d",
       "description": "30 % de la couleur secondaire.",
       "type": "color"
     },
     "400": {
-      "value": "rgba($color-secondary.secondary, 0.4)",
+      "value": "#0b5db766",
       "description": "40 % de la couleur secondaire.",
       "type": "color"
     },
     "500": {
-      "value": "rgba($color-secondary.secondary, 0.5)",
+      "value": "#0b5db780",
       "description": "50 % de la couleur secondaire.",
       "type": "color"
     },
     "600": {
-      "value": "rgba($color-secondary.secondary, 0.6)",
+      "value": "#0b5db799",
       "description": "60 % de la couleur secondaire.",
       "type": "color"
     },
     "700": {
-      "value": "rgba($color-secondary.secondary, 0.7)",
+      "value": "#0b5db7b3",
       "description": "70 % de la couleur secondaire.",
       "type": "color"
     },
     "800": {
-      "value": "rgba($color-secondary.secondary, 0.8)",
+      "value": "#0b5db7cc",
       "description": "80 % de la couleur secondaire.",
       "type": "color"
     },
     "900": {
-      "value": "rgba($color-secondary.secondary, 0.9)",
+      "value": "#0b5db7e6",
       "description": "90 % de la couleur secondaire.",
       "type": "color"
     },
@@ -105,47 +105,47 @@
   },
   "color-tertiary": {
     "100": {
-      "value": "rgba($color-tertiary.tertiary, 0.1)",
+      "value": "#24c1fd1a",
       "description": "10 % de la couleur teriaire.",
       "type": "color"
     },
     "200": {
-      "value": "rgba($color-tertiary.tertiary, 0.2)",
+      "value": "#24c1fd33",
       "description": "20 % de la couleur teriaire.",
       "type": "color"
     },
     "300": {
-      "value": "rgba($color-tertiary.tertiary, 0.3)",
+      "value": "#24c1fd4d",
       "description": "30 % de la couleur teriaire.",
       "type": "color"
     },
     "400": {
-      "value": "rgba($color-tertiary.tertiary, 0.4)",
+      "value": "#24c1fd66",
       "description": "40 % de la couleur teriaire.",
       "type": "color"
     },
     "500": {
-      "value": "rgba($color-tertiary.tertiary, 0.5)",
+      "value": "#24c1fd80",
       "description": "50 % de la couleur teriaire.",
       "type": "color"
     },
     "600": {
-      "value": "rgba($color-tertiary.tertiary, 0.6)",
+      "value": "#24c1fd99",
       "description": "60 % de la couleur teriaire.",
       "type": "color"
     },
     "700": {
-      "value": "rgba($color-tertiary.tertiary, 0.7)",
+      "value": "#24c1fdb3",
       "description": "70 % de la couleur teriaire.",
       "type": "color"
     },
     "800": {
-      "value": "rgba($color-tertiary.tertiary, 0.8)",
+      "value": "#24c1fdcc",
       "description": "80 % de la couleur teriaire.",
       "type": "color"
     },
     "900": {
-      "value": "rgba($color-tertiary.tertiary, 0.9)",
+      "value": "#24c1fde6",
       "description": "90 % de la couleur teriaire.",
       "type": "color"
     },
@@ -157,47 +157,47 @@
   },
   "color-quaternary": {
     "100": {
-      "value": "rgba($color-quaternary.quaternary, 0.1)",
+      "value": "#a6ecfe1a",
       "description": "10 % de la couleur quaternaire.",
       "type": "color"
     },
     "200": {
-      "value": "rgba($color-quaternary.quaternary, 0.2)",
+      "value": "#a6ecfe33",
       "description": "20 % de la couleur quaternaire.",
       "type": "color"
     },
     "300": {
-      "value": "rgba($color-quaternary.quaternary, 0.3)",
+      "value": "#a6ecfe4d",
       "description": "30 % de la couleur quaternaire.",
       "type": "color"
     },
     "400": {
-      "value": "rgba($color-quaternary.quaternary, 0.4)",
+      "value": "#a6ecfe66",
       "description": "40 % de la couleur quaternaire.",
       "type": "color"
     },
     "500": {
-      "value": "rgba($color-quaternary.quaternary, 0.5)",
+      "value": "#a6ecfe80",
       "description": "50 % de la couleur quaternaire.",
       "type": "color"
     },
     "600": {
-      "value": "rgba($color-quaternary.quaternary, 0.6)",
+      "value": "#a6ecfe99",
       "description": "60 % de la couleur quaternaire.",
       "type": "color"
     },
     "700": {
-      "value": "rgba($color-quaternary.quaternary, 0.7)",
+      "value": "#a6ecfeb3",
       "description": "70 % de la couleur quaternaire.",
       "type": "color"
     },
     "800": {
-      "value": "rgba($color-quaternary.quaternary, 0.8)",
+      "value": "#a6ecfecc",
       "description": "80 % de la couleur quaternaire.",
       "type": "color"
     },
     "900": {
-      "value": "rgba($color-quaternary.quaternary, 0.9)",
+      "value": "#a6ecfee6",
       "description": "90 % de la couleur quaternaire.",
       "type": "color"
     },
@@ -209,47 +209,47 @@
   },
   "color-accent": {
     "100": {
-      "value": "rgba($color-accent.accent, 0.1)",
+      "value": "#fdfe8b1a",
       "description": "10 % de la color d'accent.",
       "type": "color"
     },
     "200": {
-      "value": "rgba($color-accent.accent, 0.2)",
+      "value": "#fdfe8b33",
       "description": "20 % de la color d'accent.",
       "type": "color"
     },
     "300": {
-      "value": "rgba($color-accent.accent, 0.3)",
+      "value": "#fdfe8b4d",
       "description": "30 % de la color d'accent.",
       "type": "color"
     },
     "400": {
-      "value": "rgba($color-accent.accent, 0.4)",
+      "value": "#fdfe8b66",
       "description": "40 % de la color d'accent.",
       "type": "color"
     },
     "500": {
-      "value": "rgba($color-accent.accent, 0.5)",
+      "value": "#fdfe8b80",
       "description": "50 % de la color d'accent.",
       "type": "color"
     },
     "600": {
-      "value": "rgba($color-accent.accent, 0.6)",
+      "value": "#fdfe8b99",
       "description": "60 % de la color d'accent.",
       "type": "color"
     },
     "700": {
-      "value": "rgba($color-accent.accent, 0.7)",
+      "value": "#fdfe8bb3",
       "description": "70 % de la color d'accent.",
       "type": "color"
     },
     "800": {
-      "value": "rgba($color-accent.accent, 0.8)",
+      "value": "#fdfe8bcc",
       "description": "80 % de la color d'accent.",
       "type": "color"
     },
     "900": {
-      "value": "rgba($color-accent.accent, 0.9)",
+      "value": "#fdfe8be6",
       "description": "90 % de la color d'accent.",
       "type": "color"
     },
@@ -283,149 +283,149 @@
   },
   "size": {
     "xs": {
-      "value": "4",
+      "value": 4,
       "description": "Token régulier de très petite taille pour les composants de l'interface.",
       "type": "sizing"
     },
     "s": {
-      "value": "{size.xs} *2",
+      "value": 8,
       "description": "Token régulier de petite taille pour les composants de l'interface.",
       "type": "sizing"
     },
     "m": {
-      "value": "{size.s} *2",
+      "value": 16,
       "description": "Token régulier de taille moyenne pour les composants de l'interface.",
       "type": "sizing"
     },
     "l": {
-      "value": "{size.m} *2",
+      "value": 32,
       "description": "Token régulier de taille large pour les composants de l'interface.",
       "type": "sizing"
     },
     "xl": {
-      "value": "{size.l} *2",
+      "value": 64,
       "description": "Token régulier de taille très large pour les composants de l'interface.",
       "type": "sizing"
     },
     "2xl": {
-      "value": "{size.xl} *2",
+      "value": 128,
       "description": "Token régulier de taille très large pour les composants de l'interface.",
       "type": "sizing"
     }
   },
   "size-alt": {
     "m": {
-      "value": "{size.s} *3",
+      "value": 24,
       "description": "Token alternatif de taille moyenne pour les composants de l'interface.",
       "type": "sizing"
     }
   },
   "spacing": {
     "2xs": {
-      "value": "2",
+      "value": 2,
       "description": "Token régulier d'espacement qui a la plus petite taille.",
       "type": "spacing"
     },
     "xs": {
-      "value": "{spacing.2xs} *2",
+      "value": 4,
       "description": "Token régulier d'espacement de très petite taille.",
       "type": "spacing"
     },
     "s": {
-      "value": "{spacing.xs} *2",
+      "value": 8,
       "description": "Token régulier d'espacement de petite taille.",
       "type": "spacing"
     },
     "m": {
-      "value": "{spacing.s} *2",
+      "value": 16,
       "description": "Token régulier d'espacement de taille moyenne.",
       "type": "spacing"
     },
     "l": {
-      "value": "{spacing.m} *2",
+      "value": 32,
       "description": "Token régulier d'espacement de grande taille.",
       "type": "spacing"
     },
     "xl": {
-      "value": "{spacing.l} *2",
+      "value": 64,
       "description": "Token régulier d'espacement de très grande taille.",
       "type": "spacing"
     }
   },
   "spacing-alt-a": {
     "s": {
-      "value": "{spacing.xs} *3",
+      "value": 12,
       "description": "Token alternatif d'espacement de petite taille (variante A).",
       "type": "spacing"
     },
     "m": {
-      "value": "{spacing-alt-a.s} *2",
+      "value": 24,
       "description": "Token alternatif d'espacement de taille moyenne (variante A).",
       "type": "spacing"
     },
     "l": {
-      "value": "{spacing-alt-a.m} *2",
+      "value": 48,
       "description": "Token alternatif d'espacement de grande taille (variante A).",
       "type": "spacing"
     },
     "xl": {
-      "value": "{spacing-alt-a.l} *2",
+      "value": 96,
       "description": "Token alternatif d'espacement de très grande taille (variante A).",
       "type": "spacing"
     }
   },
   "spacing-alt-b": {
     "l": {
-      "value": "{spacing.s} *5",
+      "value": 40,
       "description": "Token alternatif d'espacement de grande taille (variante B).",
       "type": "spacing"
     },
     "xl": {
-      "value": "{spacing-alt-b.l} *2",
+      "value": 80,
       "description": "Token alternatif d'espacement de très grande taille (variante B).",
       "type": "spacing"
     },
     "2xl": {
-      "value": "{spacing-alt-b.xl} *2",
+      "value": 160,
       "description": "Token alternatif d'espacement de la plus grande taille (variante B).",
       "type": "spacing"
     }
   },
   "border-radius": {
     "xs": {
-      "value": "4",
+      "value": 4,
       "description": "Rayon de bordure le plus petit.",
       "type": "borderRadius"
     },
     "s": {
-      "value": "{border-radius.xs} *2",
+      "value": 8,
       "description": "Rayon de bordure petit, utilisé pour les images des menus des catégories.",
       "type": "borderRadius"
     },
     "m": {
-      "value": "{border-radius.s} *3",
+      "value": 24,
       "description": "Rayon de bordure moyen, utilisé pour les boutons et les cartes.",
       "type": "borderRadius"
     },
     "l": {
-      "value": "{border-radius.xs} *9",
+      "value": 36,
       "description": "Rayon de bordure grand, à utiliser pour les cartes moyennes en carrousel.",
       "type": "borderRadius"
     },
     "none": {
-      "value": "0",
+      "value": 0,
       "description": "Coins carrés.",
       "type": "borderRadius"
     }
   },
   "border-width": {
     "s": {
-      "value": "1",
+      "value": 1,
       "description": "Largeur du contour petit, à utiliser pour les éléments de séparation de l'interface.",
       "type": "borderWidth"
     },
     "m": {
-      "value": "{border-width.s} *2",
+      "value": 2,
       "description": "Largeur du contour moyen, à utiliser pour les boutons.",
       "type": "borderWidth"
     }
@@ -433,11 +433,11 @@
   "box-shadow-onlight": {
     "active": {
       "value": {
-        "x": "3",
-        "y": "3",
-        "blur": "0",
-        "spread": "0",
-        "color": "$color-primary.primary",
+        "x": 3,
+        "y": 3,
+        "blur": 0,
+        "spread": 0,
+        "color": "#192872",
         "type": "dropShadow"
       },
       "description": "Ombre porté du bouton primaire sur fond clair en état par défaut.",
@@ -445,11 +445,11 @@
     },
     "hover": {
       "value": {
-        "x": "5",
-        "y": "5",
-        "blur": "0",
-        "spread": "0",
-        "color": "$color-primary.primary",
+        "x": 5,
+        "y": 5,
+        "blur": 0,
+        "spread": 0,
+        "color": "#192872",
         "type": "dropShadow"
       },
       "description": "Ombre porté du bouton primaire sur fond clair en état de survol.",
@@ -459,11 +459,11 @@
   "box-shadow-ondark": {
     "active": {
       "value": {
-        "x": "3",
-        "y": "3",
-        "blur": "0",
-        "spread": "0",
-        "color": "$colors-ui.lighter",
+        "x": 3,
+        "y": 3,
+        "blur": 0,
+        "spread": 0,
+        "color": "#ffffff",
         "type": "dropShadow"
       },
       "description": "Ombre porté du bouton primaire sur fond sombre en état par défaut.",
@@ -471,11 +471,11 @@
     },
     "hover": {
       "value": {
-        "x": "5",
-        "y": "5",
-        "blur": "0",
-        "spread": "0",
-        "color": "$colors-ui.lighter",
+        "x": 5,
+        "y": 5,
+        "blur": 0,
+        "spread": 0,
+        "color": "#ffffff",
         "type": "dropShadow"
       },
       "description": "Ombre porté du bouton primaire sur fond sombre en état de survol.",
@@ -547,85 +547,85 @@
   },
   "font-size-small": {
     "xs": {
-      "value": "12",
+      "value": 12,
       "description": "Texte de petit format. Taille petite.",
       "type": "fontSizes"
     },
     "s": {
-      "value": "{font-size-small.xs} +2",
+      "value": 14,
       "description": "Texte de petit format. Taille régulière.",
       "type": "fontSizes"
     }
   },
   "font-size-small-alt": {
     "3xs": {
-      "value": "9",
+      "value": 9,
       "description": "Texte de petit format (alternatif). Taille minimale.",
       "type": "fontSizes"
     },
     "2xs": {
-      "value": "{font-size-small-alt.3xs} +2",
+      "value": 11,
       "description": "Texte de petit format (alternatif). Taille très petite.",
       "type": "fontSizes"
     },
     "xs": {
-      "value": "{font-size-small-alt.2xs} +2",
+      "value": 13,
       "description": "Texte de petit format (alternatif). Taille petite.",
       "type": "fontSizes"
     },
     "s": {
-      "value": "{font-size-small-alt.xs} +2",
+      "value": 15,
       "description": "Texte de petit format (alternatif). Taille regulière.",
       "type": "fontSizes"
     }
   },
   "font-size-medium": {
     "xs": {
-      "value": "{font-size-small.s} +2",
+      "value": 16,
       "description": "Texte de format moyen. Taille petite.",
       "type": "fontSizes"
     },
     "s": {
-      "value": "{font-size-medium.xs} +2",
+      "value": 18,
       "description": "Texte de format moyen. Taille régulière.",
       "type": "fontSizes"
     },
     "l": {
-      "value": "{font-size-medium.s} +2",
+      "value": 20,
       "description": "Texte de format moyen. Taille grande.",
       "type": "fontSizes"
     },
     "xl": {
-      "value": "{font-size-medium.l} +2",
+      "value": 22,
       "description": "Texte de format moyen. Taille très grande.",
       "type": "fontSizes"
     }
   },
   "font-size-medium-alt": {
     "xs": {
-      "value": "{font-size-small-alt.s} +2",
+      "value": 17,
       "description": "Texte de format moyen (alternatif). Taille petite.",
       "type": "fontSizes"
     }
   },
   "font-size-large": {
     "xs": {
-      "value": "{font-size-medium.l} +4",
+      "value": 24,
       "description": "Texte de grand format. Taille minimale.",
       "type": "fontSizes"
     },
     "s": {
-      "value": "{font-size-large.xs} +4",
+      "value": 28,
       "description": "Texte de grand format. Taille petite.",
       "type": "fontSizes"
     },
     "m": {
-      "value": "{font-size-large.s} +4",
+      "value": 32,
       "description": "Texte de grand format. Taille régulière.",
       "type": "fontSizes"
     },
     "l": {
-      "value": "{font-size-large.m} +10",
+      "value": 42,
       "description": "Texte de grand format. Taille grande.",
       "type": "fontSizes"
     }
@@ -681,60 +681,108 @@
   },
   "display": {
     "display-1": {
-      "value": {
-        "fontFamily": "{font-family.primary}",
-        "fontWeight": "{font-weight.super}",
-        "lineHeight": "{line-height.display}",
-        "fontSize": "{font-size-large.l}",
-        "letterSpacing": "{letter-spacing.l}",
-        "paragraphSpacing": "{paragraph-spacing.display}",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Format le plus grand des titres.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Super"
+      },
+      "lineHeight": {
+        "value": "110%"
+      },
+      "fontSize": {
+        "value": 42
+      },
+      "letterSpacing": {
+        "value": "1%"
+      },
+      "paragraphSpacing": {
+        "value": "16%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     },
     "display-2": {
-      "value": {
-        "fontFamily": "{font-family.primary}",
-        "fontWeight": "{font-weight.super}",
-        "lineHeight": "{line-height.display}",
-        "fontSize": "{font-size-large.m}",
-        "letterSpacing": "{letter-spacing.l}",
-        "paragraphSpacing": "{paragraph-spacing.display}",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Deuxième niveau du format des titres.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Super"
+      },
+      "lineHeight": {
+        "value": "110%"
+      },
+      "fontSize": {
+        "value": 32
+      },
+      "letterSpacing": {
+        "value": "1%"
+      },
+      "paragraphSpacing": {
+        "value": "16%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     },
     "display-3": {
-      "value": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.super",
-        "lineHeight": "$line-height.display",
-        "fontSize": "$font-size-large.s",
-        "letterSpacing": "$letter-spacing.l",
-        "paragraphSpacing": "$paragraph-spacing.display",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Trosième niveau du format des titres.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Super"
+      },
+      "lineHeight": {
+        "value": "110%"
+      },
+      "fontSize": {
+        "value": 28
+      },
+      "letterSpacing": {
+        "value": "1%"
+      },
+      "paragraphSpacing": {
+        "value": "16%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     },
     "display-4": {
-      "value": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.black",
-        "lineHeight": "$line-height.display",
-        "fontSize": "$font-size-large.xs",
-        "letterSpacing": "$letter-spacing.l",
-        "paragraphSpacing": "$paragraph-spacing.display",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Quatrième niveau du format des titres.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Black"
+      },
+      "lineHeight": {
+        "value": "110%"
+      },
+      "fontSize": {
+        "value": 24
+      },
+      "letterSpacing": {
+        "value": "1%"
+      },
+      "paragraphSpacing": {
+        "value": "16%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     }
   },
   "text-case": {
@@ -761,160 +809,292 @@
   },
   "headings": {
     "heading-1": {
-      "value": {
-        "fontFamily": "{font-family.primary}",
-        "fontWeight": "{font-weight.super}",
-        "lineHeight": "{line-height.heading}",
-        "fontSize": "{font-size-medium.xl}",
-        "letterSpacing": "{letter-spacing.m}",
-        "paragraphSpacing": "{paragraph-spacing.heading}",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Premier niveau du format des sous-titres.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Super"
+      },
+      "lineHeight": {
+        "value": "130%"
+      },
+      "fontSize": {
+        "value": 22
+      },
+      "letterSpacing": {
+        "value": "0%"
+      },
+      "paragraphSpacing": {
+        "value": "12%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     },
     "heading-2": {
-      "value": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.black",
-        "lineHeight": "$line-height.heading",
-        "fontSize": "$font-size-medium.l",
-        "letterSpacing": "$letter-spacing.m",
-        "paragraphSpacing": "$paragraph-spacing.heading",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Deuxième niveau du format des sous-titres.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Black"
+      },
+      "lineHeight": {
+        "value": "130%"
+      },
+      "fontSize": {
+        "value": 20
+      },
+      "letterSpacing": {
+        "value": "0%"
+      },
+      "paragraphSpacing": {
+        "value": "12%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     },
     "heading-3": {
-      "value": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.bold",
-        "lineHeight": "$line-height.heading",
-        "fontSize": "$font-size-medium.s",
-        "letterSpacing": "$letter-spacing.m",
-        "paragraphSpacing": "$paragraph-spacing.heading",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Troisième niveau du format des sous-titres.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Bold"
+      },
+      "lineHeight": {
+        "value": "130%"
+      },
+      "fontSize": {
+        "value": 18
+      },
+      "letterSpacing": {
+        "value": "0%"
+      },
+      "paragraphSpacing": {
+        "value": "12%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     },
     "heading-4": {
-      "value": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.medium",
-        "lineHeight": "$line-height.heading",
-        "fontSize": "$font-size-medium-alt.xs",
-        "letterSpacing": "$letter-spacing.s",
-        "paragraphSpacing": "$paragraph-spacing.heading",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Quatrième niveau du format des sous-titres.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Medium"
+      },
+      "lineHeight": {
+        "value": "130%"
+      },
+      "fontSize": {
+        "value": 17
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "12%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     },
     "heading-5": {
-      "value": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.black",
-        "lineHeight": "$line-height.heading",
-        "fontSize": "$font-size-medium.xs",
-        "letterSpacing": "$letter-spacing.s",
-        "paragraphSpacing": "$paragraph-spacing.heading",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Cinquième niveau du format des sous-titres.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Black"
+      },
+      "lineHeight": {
+        "value": "130%"
+      },
+      "fontSize": {
+        "value": 16
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "12%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     }
   },
   "body": {
     "body-1": {
-      "value": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.regular",
-        "lineHeight": "$line-height.body",
-        "fontSize": "$font-size-small-alt.s",
-        "letterSpacing": "$letter-spacing.s",
-        "paragraphSpacing": "$paragraph-spacing.body",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Premier niveau du format des paragraphes.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "150%"
+      },
+      "fontSize": {
+        "value": 15
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "8%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     },
     "body-2": {
-      "value": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.regular",
-        "lineHeight": "$line-height.body",
-        "fontSize": "$font-size-small.s",
-        "letterSpacing": "$letter-spacing.s",
-        "paragraphSpacing": "$paragraph-spacing.body",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Deuxième niveau du format des paragraphes.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "150%"
+      },
+      "fontSize": {
+        "value": 14
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "8%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     },
     "body-3": {
-      "value": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.regular",
-        "lineHeight": "$line-height.body",
-        "fontSize": "$font-size-small-alt.xs",
-        "letterSpacing": "$letter-spacing.s",
-        "paragraphSpacing": "$paragraph-spacing.body",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Troisième niveau du format des paragraphes.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "150%"
+      },
+      "fontSize": {
+        "value": 13
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "8%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     },
     "body-4": {
-      "value": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.regular",
-        "lineHeight": "$line-height.body",
-        "fontSize": "$font-size-small.xs",
-        "letterSpacing": "$letter-spacing.s",
-        "paragraphSpacing": "$paragraph-spacing.body",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Quatrième niveau du format des paragraphes.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "150%"
+      },
+      "fontSize": {
+        "value": 12
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "8%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     },
     "body-5": {
-      "value": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.regular",
-        "lineHeight": "$line-height.body",
-        "fontSize": "$font-size-small-alt.2xs",
-        "letterSpacing": "$letter-spacing.s",
-        "paragraphSpacing": "$paragraph-spacing.body",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Cinquième niveau du format des paragraphes.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "150%"
+      },
+      "fontSize": {
+        "value": 11
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "8%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     },
     "body-6": {
-      "value": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.regular",
-        "lineHeight": "$line-height.body",
-        "fontSize": "$font-size-small-alt.3xs",
-        "letterSpacing": "$letter-spacing.s",
-        "paragraphSpacing": "$paragraph-spacing.body",
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Abel"
       },
-      "description": "Sixième niveau du format des paragraphes.",
-      "type": "typography"
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "150%"
+      },
+      "fontSize": {
+        "value": 9
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "8%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
     }
   },
   "theme": {
@@ -924,32 +1104,32 @@
       "type": "color"
     },
     "titres": {
-      "value": "$color-accent.accent",
+      "value": "#192872",
       "description": "Couleur de la figure (foreground).",
       "type": "color"
     },
     "textes": {
-      "value": "$colors-ui.darker",
+      "value": "#020a30",
       "description": "Couleur des textes.",
       "type": "color"
     },
     "bg-btn": {
-      "value": "$color-tertiary.tertiary",
+      "value": "#24c1fd",
       "description": "Couleur du fond du bouton.",
       "type": "color"
     },
     "input": {
-      "value": "$colors-ui.background",
+      "value": "#f2f7fc",
       "description": "Couleur des champs de saisie.",
       "type": "color"
     },
     "stroke": {
-      "value": "$colors-ui.stroke",
+      "value": "#dce2ed",
       "description": "Couleur des bordures.",
       "type": "color"
     },
     "txt-btn": {
-      "value": "$color-primary.primary",
+      "value": "#192872",
       "description": "Couleur des textes du bouton.",
       "type": "color"
     }
@@ -957,10 +1137,10 @@
   "box-shadow": {
     "none": {
       "value": {
-        "x": "0",
-        "y": "0",
-        "blur": "0",
-        "spread": "0",
+        "x": 0,
+        "y": 0,
+        "blur": 0,
+        "spread": 0,
         "color": "#000000",
         "type": "dropShadow"
       },

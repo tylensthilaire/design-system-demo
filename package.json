@@ -1,5 +1,11 @@
 {
   "devDependencies": {
-    "style-dictionary": "^3.1.1"
+    "style-dictionary": "^3.1.1",
+    "token-transformer": "0.0.17"
+  },
+  "dependencies": {},
+  "scripts": {
+    "transformMoj": "token-transformer figma-sync/all.json transformer-output/all.json moj --expandTypography=true && style-dictionary build",
+    "transformNavCat": "token-transformer figma-sync/all.json transformer-output/all.json 'nav&cat' --expandTypography=true && style-dictionary build"
   }
 }

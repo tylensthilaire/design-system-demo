@@ -4,15 +4,15 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 25 Jan 2022 18:21:30 GMT
+// Generated on Wed, 26 Jan 2022 11:15:50 GMT
 
 
 #import "StyleDictionarySize.h"
 
 
 float const SizeXs = 64.00f;
-float const SizeS = 64.00f *2;
-float const SizeM = 64.00f *2 *2;
-float const SizeL = 64.00f *2 *2 *2;
-float const SizeXl = 64.00f *2 *2 *2 *2;
-float const Size2xl = 64.00f *2 *2 *2 *2 *2;
+float const SizeS = 128.00f;
+float const SizeM = 256.00f;
+float const SizeL = 512.00f;
+float const SizeXl = 1024.00f;
+float const Size2xl = 2048.00f;
