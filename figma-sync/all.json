@@ -1953,5 +1953,989 @@
         "type": "boxShadow"
       }
     }
+  },
+  "demo": {
+    "color-primary": {
+      "100": {
+        "value": "rgba($color-primary.primary, 0.1)",
+        "description": "10 % de la color primaire.",
+        "type": "color"
+      },
+      "200": {
+        "value": "rgba($color-primary.primary, 0.2)",
+        "description": "20 % de la couleur primaire.",
+        "type": "color"
+      },
+      "300": {
+        "value": "rgba($color-primary.primary, 0.3)",
+        "description": "30 % de la couleur primaire.",
+        "type": "color"
+      },
+      "400": {
+        "value": "rgba($color-primary.primary, 0.4)",
+        "description": "40 % de la couleur primaire.",
+        "type": "color"
+      },
+      "500": {
+        "value": "rgba($color-primary.primary, 0.5)",
+        "description": "50 % de la couleur primaire.",
+        "type": "color"
+      },
+      "600": {
+        "value": "rgba($color-primary.primary, 0.6)",
+        "description": "60 % de la couleur primaire.",
+        "type": "color"
+      },
+      "700": {
+        "value": "rgba($color-primary.primary, 0.7)",
+        "description": "70 % de la couleur primaire.",
+        "type": "color"
+      },
+      "800": {
+        "value": "rgba($color-primary.primary, 0.8)",
+        "description": "80 % de la couleur primaire.",
+        "type": "color"
+      },
+      "900": {
+        "value": "rgba($color-primary.primary, 0.9)",
+        "description": "90 % de la couleur primaire.",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#192872",
+        "description": "Couleur principale associÃ©e Ã  la marque.",
+        "type": "color"
+      }
+    },
+    "color-secondary": {
+      "100": {
+        "value": "rgba($color-secondary.secondary, 0.1)",
+        "description": "10 % de la couleur secondaire.",
+        "type": "color"
+      },
+      "200": {
+        "value": "rgba($color-secondary.secondary, 0.2)",
+        "description": "20 % de la couleur secondaire.",
+        "type": "color"
+      },
+      "300": {
+        "value": "rgba($color-secondary.secondary, 0.3)",
+        "description": "30 % de la couleur secondaire.",
+        "type": "color"
+      },
+      "400": {
+        "value": "rgba($color-secondary.secondary, 0.4)",
+        "description": "40 % de la couleur secondaire.",
+        "type": "color"
+      },
+      "500": {
+        "value": "rgba($color-secondary.secondary, 0.5)",
+        "description": "50 % de la couleur secondaire.",
+        "type": "color"
+      },
+      "600": {
+        "value": "rgba($color-secondary.secondary, 0.6)",
+        "description": "60 % de la couleur secondaire.",
+        "type": "color"
+      },
+      "700": {
+        "value": "rgba($color-secondary.secondary, 0.7)",
+        "description": "70 % de la couleur secondaire.",
+        "type": "color"
+      },
+      "800": {
+        "value": "rgba($color-secondary.secondary, 0.8)",
+        "description": "80 % de la couleur secondaire.",
+        "type": "color"
+      },
+      "900": {
+        "value": "rgba($color-secondary.secondary, 0.9)",
+        "description": "90 % de la couleur secondaire.",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#0b5db7",
+        "description": "Couleur secondaire associÃ©e Ã  la marque.",
+        "type": "color"
+      }
+    },
+    "color-tertiary": {
+      "100": {
+        "value": "rgba($color-tertiary.tertiary, 0.1)",
+        "description": "10 % de la couleur teriaire.",
+        "type": "color"
+      },
+      "200": {
+        "value": "rgba($color-tertiary.tertiary, 0.2)",
+        "description": "20 % de la couleur teriaire.",
+        "type": "color"
+      },
+      "300": {
+        "value": "rgba($color-tertiary.tertiary, 0.3)",
+        "description": "30 % de la couleur teriaire.",
+        "type": "color"
+      },
+      "400": {
+        "value": "rgba($color-tertiary.tertiary, 0.4)",
+        "description": "40 % de la couleur teriaire.",
+        "type": "color"
+      },
+      "500": {
+        "value": "rgba($color-tertiary.tertiary, 0.5)",
+        "description": "50 % de la couleur teriaire.",
+        "type": "color"
+      },
+      "600": {
+        "value": "rgba($color-tertiary.tertiary, 0.6)",
+        "description": "60 % de la couleur teriaire.",
+        "type": "color"
+      },
+      "700": {
+        "value": "rgba($color-tertiary.tertiary, 0.7)",
+        "description": "70 % de la couleur teriaire.",
+        "type": "color"
+      },
+      "800": {
+        "value": "rgba($color-tertiary.tertiary, 0.8)",
+        "description": "80 % de la couleur teriaire.",
+        "type": "color"
+      },
+      "900": {
+        "value": "rgba($color-tertiary.tertiary, 0.9)",
+        "description": "90 % de la couleur teriaire.",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#24c1fd",
+        "description": "Couleur tertiaire associÃ©e Ã  la marque.",
+        "type": "color"
+      }
+    },
+    "color-quaternary": {
+      "100": {
+        "value": "rgba($color-quaternary.quaternary, 0.1)",
+        "description": "10 % de la couleur quaternaire.",
+        "type": "color"
+      },
+      "200": {
+        "value": "rgba($color-quaternary.quaternary, 0.2)",
+        "description": "20 % de la couleur quaternaire.",
+        "type": "color"
+      },
+      "300": {
+        "value": "rgba($color-quaternary.quaternary, 0.3)",
+        "description": "30 % de la couleur quaternaire.",
+        "type": "color"
+      },
+      "400": {
+        "value": "rgba($color-quaternary.quaternary, 0.4)",
+        "description": "40 % de la couleur quaternaire.",
+        "type": "color"
+      },
+      "500": {
+        "value": "rgba($color-quaternary.quaternary, 0.5)",
+        "description": "50 % de la couleur quaternaire.",
+        "type": "color"
+      },
+      "600": {
+        "value": "rgba($color-quaternary.quaternary, 0.6)",
+        "description": "60 % de la couleur quaternaire.",
+        "type": "color"
+      },
+      "700": {
+        "value": "rgba($color-quaternary.quaternary, 0.7)",
+        "description": "70 % de la couleur quaternaire.",
+        "type": "color"
+      },
+      "800": {
+        "value": "rgba($color-quaternary.quaternary, 0.8)",
+        "description": "80 % de la couleur quaternaire.",
+        "type": "color"
+      },
+      "900": {
+        "value": "rgba($color-quaternary.quaternary, 0.9)",
+        "description": "90 % de la couleur quaternaire.",
+        "type": "color"
+      },
+      "quaternary": {
+        "value": "#a6ecfe",
+        "description": "Couleur quaternaire associÃ©e Ã  la marque.",
+        "type": "color"
+      }
+    },
+    "color-accent": {
+      "100": {
+        "value": "rgba($color-accent.accent, 0.1)",
+        "description": "10 % de la color d'accent.",
+        "type": "color"
+      },
+      "200": {
+        "value": "rgba($color-accent.accent, 0.2)",
+        "description": "20 % de la color d'accent.",
+        "type": "color"
+      },
+      "300": {
+        "value": "rgba($color-accent.accent, 0.3)",
+        "description": "30 % de la color d'accent.",
+        "type": "color"
+      },
+      "400": {
+        "value": "rgba($color-accent.accent, 0.4)",
+        "description": "40 % de la color d'accent.",
+        "type": "color"
+      },
+      "500": {
+        "value": "rgba($color-accent.accent, 0.5)",
+        "description": "50 % de la color d'accent.",
+        "type": "color"
+      },
+      "600": {
+        "value": "rgba($color-accent.accent, 0.6)",
+        "description": "60 % de la color d'accent.",
+        "type": "color"
+      },
+      "700": {
+        "value": "rgba($color-accent.accent, 0.7)",
+        "description": "70 % de la color d'accent.",
+        "type": "color"
+      },
+      "800": {
+        "value": "rgba($color-accent.accent, 0.8)",
+        "description": "80 % de la color d'accent.",
+        "type": "color"
+      },
+      "900": {
+        "value": "rgba($color-accent.accent, 0.9)",
+        "description": "90 % de la color d'accent.",
+        "type": "color"
+      },
+      "accent": {
+        "value": "#fdfe8b",
+        "description": "Couleur d'accent associÃ©e Ã  la marque.",
+        "type": "color"
+      }
+    },
+    "colors-ui": {
+      "darker": {
+        "value": "#020a30",
+        "description": "La couleur la plus sombre de l'interface, Ã  utiliser Ã  la place de noir.",
+        "type": "color"
+      },
+      "lighter": {
+        "value": "#ffffff",
+        "description": "La couleur la plus pÃ¢le de l'interface.",
+        "type": "color"
+      },
+      "stroke": {
+        "value": "#dce2ed",
+        "description": "La couleur utilisÃ©e pour les bordures de l'interface.",
+        "type": "color"
+      },
+      "background": {
+        "value": "#f2f7fc",
+        "description": "La couleur utilisÃ©e pour les fonds de l'interface en mode clair.",
+        "type": "color"
+      }
+    },
+    "size": {
+      "xs": {
+        "value": "4",
+        "description": "Token rÃ©gulier de trÃ¨s petite taille pour les composants de l'interface.",
+        "type": "sizing"
+      },
+      "s": {
+        "value": "{size.xs} *2",
+        "description": "Token rÃ©gulier de petite taille pour les composants de l'interface.",
+        "type": "sizing"
+      },
+      "m": {
+        "value": "{size.s} *2",
+        "description": "Token rÃ©gulier de taille moyenne pour les composants de l'interface.",
+        "type": "sizing"
+      },
+      "l": {
+        "value": "{size.m} *2",
+        "description": "Token rÃ©gulier de taille large pour les composants de l'interface.",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "{size.l} *2",
+        "description": "Token rÃ©gulier de taille trÃ¨s large pour les composants de l'interface.",
+        "type": "sizing"
+      },
+      "2xl": {
+        "value": "{size.xl} *2",
+        "description": "Token rÃ©gulier de taille trÃ¨s large pour les composants de l'interface.",
+        "type": "sizing"
+      }
+    },
+    "size-alt": {
+      "m": {
+        "value": "{size.s} *3",
+        "description": "Token alternatif de taille moyenne pour les composants de l'interface.",
+        "type": "sizing"
+      }
+    },
+    "spacing": {
+      "2xs": {
+        "value": "2",
+        "description": "Token rÃ©gulier d'espacement qui a la plus petite taille.",
+        "type": "spacing"
+      },
+      "xs": {
+        "value": "{spacing.2xs} *2",
+        "description": "Token rÃ©gulier d'espacement de trÃ¨s petite taille.",
+        "type": "spacing"
+      },
+      "s": {
+        "value": "{spacing.xs} *2",
+        "description": "Token rÃ©gulier d'espacement de petite taille.",
+        "type": "spacing"
+      },
+      "m": {
+        "value": "{spacing.s} *2",
+        "description": "Token rÃ©gulier d'espacement de taille moyenne.",
+        "type": "spacing"
+      },
+      "l": {
+        "value": "{spacing.m} *2",
+        "description": "Token rÃ©gulier d'espacement de grande taille.",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "{spacing.l} *2",
+        "description": "Token rÃ©gulier d'espacement de trÃ¨s grande taille.",
+        "type": "spacing"
+      }
+    },
+    "spacing-alt-a": {
+      "s": {
+        "value": "{spacing.xs} *3",
+        "description": "Token alternatif d'espacement de petite taille (variante A).",
+        "type": "spacing"
+      },
+      "m": {
+        "value": "{spacing-alt-a.s} *2",
+        "description": "Token alternatif d'espacement de taille moyenne (variante A).",
+        "type": "spacing"
+      },
+      "l": {
+        "value": "{spacing-alt-a.m} *2",
+        "description": "Token alternatif d'espacement de grande taille (variante A).",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "{spacing-alt-a.l} *2",
+        "description": "Token alternatif d'espacement de trÃ¨s grande taille (variante A).",
+        "type": "spacing"
+      }
+    },
+    "spacing-alt-b": {
+      "l": {
+        "value": "{spacing.s} *5",
+        "description": "Token alternatif d'espacement de grande taille (variante B).",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "{spacing-alt-b.l} *2",
+        "description": "Token alternatif d'espacement de trÃ¨s grande taille (variante B).",
+        "type": "spacing"
+      },
+      "2xl": {
+        "value": "{spacing-alt-b.xl} *2",
+        "description": "Token alternatif d'espacement de la plus grande taille (variante B).",
+        "type": "spacing"
+      }
+    },
+    "border-radius": {
+      "xs": {
+        "value": "4",
+        "description": "Rayon de bordure le plus petit.",
+        "type": "borderRadius"
+      },
+      "s": {
+        "value": "{border-radius.xs} *2",
+        "description": "Rayon de bordure petit, utilisÃ© pour les images des menus des catÃ©gories.",
+        "type": "borderRadius"
+      },
+      "m": {
+        "value": "{border-radius.s} *3",
+        "description": "Rayon de bordure moyen, utilisÃ© pour les boutons et les cartes.",
+        "type": "borderRadius"
+      },
+      "l": {
+        "value": "{border-radius.xs} *9",
+        "description": "Rayon de bordure grand, Ã  utiliser pour les cartes moyennes en carrousel.",
+        "type": "borderRadius"
+      },
+      "none": {
+        "value": "0",
+        "description": "Coins carrÃ©s.",
+        "type": "borderRadius"
+      }
+    },
+    "border-width": {
+      "s": {
+        "value": "1",
+        "description": "Largeur du contour petit, Ã  utiliser pour les Ã©lÃ©ments de sÃ©paration de l'interface.",
+        "type": "borderWidth"
+      },
+      "m": {
+        "value": "{border-width.s} *2",
+        "description": "Largeur du contour moyen, Ã  utiliser pour les boutons.",
+        "type": "borderWidth"
+      }
+    },
+    "box-shadow-onlight": {
+      "active": {
+        "value": {
+          "x": "3",
+          "y": "3",
+          "blur": "0",
+          "spread": "0",
+          "color": "$color-primary.primary",
+          "type": "dropShadow"
+        },
+        "description": "Ombre portÃ© du bouton primaire sur fond clair en Ã©tat par dÃ©faut.",
+        "type": "boxShadow"
+      },
+      "hover": {
+        "value": {
+          "x": "5",
+          "y": "5",
+          "blur": "0",
+          "spread": "0",
+          "color": "$color-primary.primary",
+          "type": "dropShadow"
+        },
+        "description": "Ombre portÃ© du bouton primaire sur fond clair en Ã©tat de survol.",
+        "type": "boxShadow"
+      }
+    },
+    "box-shadow-ondark": {
+      "active": {
+        "value": {
+          "x": "3",
+          "y": "3",
+          "blur": "0",
+          "spread": "0",
+          "color": "$colors-ui.lighter",
+          "type": "dropShadow"
+        },
+        "description": "Ombre portÃ© du bouton primaire sur fond sombre en Ã©tat par dÃ©faut.",
+        "type": "boxShadow"
+      },
+      "hover": {
+        "value": {
+          "x": "5",
+          "y": "5",
+          "blur": "0",
+          "spread": "0",
+          "color": "$colors-ui.lighter",
+          "type": "dropShadow"
+        },
+        "description": "Ombre portÃ© du bouton primaire sur fond sombre en Ã©tat de survol.",
+        "type": "boxShadow"
+      }
+    },
+    "font-family": {
+      "primary": {
+        "value": "Abel",
+        "description": "Police Ã  privilÃ©gier pour toutes les marques Loto-QuÃ©bec.",
+        "type": "fontFamilies"
+      }
+    },
+    "font-weight": {
+      "regular": {
+        "value": "Regular",
+        "description": "Police de caractÃ¨re rÃ©guliÃ¨re.",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "Medium",
+        "description": "Police de caractÃ¨re moyenne.",
+        "type": "fontWeights"
+      },
+      "semibold": {
+        "value": "Semibold",
+        "description": "Police de caractÃ¨re demi-gras.",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "Bold",
+        "description": "Police de caractÃ¨re gras.",
+        "type": "fontWeights"
+      },
+      "black": {
+        "value": "Black",
+        "description": "Police de caractÃ¨re trÃ¨s gras.",
+        "type": "fontWeights"
+      },
+      "super": {
+        "value": "Super",
+        "description": "Police de caractÃ¨re noire.",
+        "type": "fontWeights"
+      }
+    },
+    "line-height": {
+      "body": {
+        "value": "150%",
+        "description": "Interlignage des paragraphes.",
+        "type": "lineHeights"
+      },
+      "heading": {
+        "value": "130%",
+        "description": "Interlignage des titres.",
+        "type": "lineHeights"
+      },
+      "display": {
+        "value": "110%",
+        "description": "Interlignage des gros titres.",
+        "type": "lineHeights"
+      }
+    },
+    "line-height-alt": {
+      "body": {
+        "value": "120%",
+        "description": "Interlignage des paragraphes serrÃ©.",
+        "type": "lineHeights"
+      }
+    },
+    "font-size-small": {
+      "xs": {
+        "value": "18",
+        "description": "Texte de petit format. Taille petite.",
+        "type": "fontSizes"
+      },
+      "s": {
+        "value": "{font-size-small.xs} +2",
+        "description": "Texte de petit format. Taille rÃ©guliÃ¨re.",
+        "type": "fontSizes"
+      }
+    },
+    "font-size-small-alt": {
+      "3xs": {
+        "value": "9",
+        "description": "Texte de petit format (alternatif). Taille minimale.",
+        "type": "fontSizes"
+      },
+      "2xs": {
+        "value": "{font-size-small-alt.3xs} +2",
+        "description": "Texte de petit format (alternatif). Taille trÃ¨s petite.",
+        "type": "fontSizes"
+      },
+      "xs": {
+        "value": "{font-size-small-alt.2xs} +2",
+        "description": "Texte de petit format (alternatif). Taille petite.",
+        "type": "fontSizes"
+      },
+      "s": {
+        "value": "{font-size-small-alt.xs} +2",
+        "description": "Texte de petit format (alternatif). Taille reguliÃ¨re.",
+        "type": "fontSizes"
+      }
+    },
+    "font-size-medium": {
+      "xs": {
+        "value": "{font-size-small.s} +2",
+        "description": "Texte de format moyen. Taille petite.",
+        "type": "fontSizes"
+      },
+      "s": {
+        "value": "{font-size-medium.xs} +2",
+        "description": "Texte de format moyen. Taille rÃ©guliÃ¨re.",
+        "type": "fontSizes"
+      },
+      "l": {
+        "value": "{font-size-medium.s}+2",
+        "description": "Texte de format moyen. Taille grande.",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "{font-size-medium.l} +2",
+        "description": "Texte de format moyen. Taille trÃ¨s grande.",
+        "type": "fontSizes"
+      }
+    },
+    "font-size-medium-alt": {
+      "xs": {
+        "value": "{font-size-small-alt.s} +2",
+        "description": "Texte de format moyen (alternatif). Taille petite.",
+        "type": "fontSizes"
+      }
+    },
+    "font-size-large": {
+      "xs": {
+        "value": "{font-size-medium.l} +4",
+        "description": "Texte de grand format. Taille minimale.",
+        "type": "fontSizes"
+      },
+      "s": {
+        "value": "{font-size-large.xs} +4",
+        "description": "Texte de grand format. Taille petite.",
+        "type": "fontSizes"
+      },
+      "m": {
+        "value": "{font-size-large.s} +4",
+        "description": "Texte de grand format. Taille rÃ©guliÃ¨re.",
+        "type": "fontSizes"
+      },
+      "l": {
+        "value": "{font-size-large.m} +10",
+        "description": "Texte de grand format. Taille grande.",
+        "type": "fontSizes"
+      }
+    },
+    "letter-spacing": {
+      "xs": {
+        "value": "-2%",
+        "description": "Interlettrage extra petit.",
+        "type": "letterSpacing"
+      },
+      "s": {
+        "value": "-1%",
+        "description": "Interlettrage petit.",
+        "type": "letterSpacing"
+      },
+      "m": {
+        "value": "0%",
+        "description": "Interlettrage rÃ©gulier.",
+        "type": "letterSpacing"
+      },
+      "l": {
+        "value": "1%",
+        "description": "Interlettrage grande.",
+        "type": "letterSpacing"
+      },
+      "xl": {
+        "value": "2%",
+        "description": "Interlettrage extra grande.",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraph-spacing": {
+      "none": {
+        "value": "none",
+        "description": "La sÃ©paration entre paragraphes/titres est Ã©gale Ã  zÃ©ro.",
+        "type": "paragraphSpacing"
+      },
+      "body": {
+        "value": "8%",
+        "description": "SÃ©paration entre paragraphes.",
+        "type": "paragraphSpacing"
+      },
+      "heading": {
+        "value": "12%",
+        "description": "SÃ©paration entre titres.",
+        "type": "paragraphSpacing"
+      },
+      "display": {
+        "value": "16%",
+        "description": "SÃ©paration entre gros titres.",
+        "type": "paragraphSpacing"
+      }
+    },
+    "display": {
+      "display-1": {
+        "value": {
+          "fontFamily": "{font-family.primary}",
+          "fontWeight": "{font-weight.super}",
+          "lineHeight": "{line-height.display}",
+          "fontSize": "{font-size-large.l}",
+          "letterSpacing": "{letter-spacing.l}",
+          "paragraphSpacing": "{paragraph-spacing.display}",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Format le plus grand des titres.",
+        "type": "typography"
+      },
+      "display-2": {
+        "value": {
+          "fontFamily": "{font-family.primary}",
+          "fontWeight": "{font-weight.super}",
+          "lineHeight": "{line-height.display}",
+          "fontSize": "{font-size-large.m}",
+          "letterSpacing": "{letter-spacing.l}",
+          "paragraphSpacing": "{paragraph-spacing.display}",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "DeuxiÃ¨me niveau du format des titres.",
+        "type": "typography"
+      },
+      "display-3": {
+        "value": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.super",
+          "lineHeight": "$line-height.display",
+          "fontSize": "$font-size-large.s",
+          "letterSpacing": "$letter-spacing.l",
+          "paragraphSpacing": "$paragraph-spacing.display",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "TrosiÃ¨me niveau du format des titres.",
+        "type": "typography"
+      },
+      "display-4": {
+        "value": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.black",
+          "lineHeight": "$line-height.display",
+          "fontSize": "$font-size-large.xs",
+          "letterSpacing": "$letter-spacing.l",
+          "paragraphSpacing": "$paragraph-spacing.display",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "QuatriÃ¨me niveau du format des titres.",
+        "type": "typography"
+      }
+    },
+    "text-case": {
+      "none": {
+        "value": "none",
+        "description": " La casse des textes par dÃ©faut.",
+        "type": "textCase"
+      },
+      "capitalize": {
+        "value": "capitalize",
+        "description": "Le premier caractÃ¨re des textes est en majuscules.",
+        "type": "textCase"
+      },
+      "uppercase": {
+        "value": "uppercase",
+        "description": "La casse des textes est en majuscules.",
+        "type": "textCase"
+      },
+      "lowercase": {
+        "value": "lowercase",
+        "description": "La casse des textes est en minuscules.",
+        "type": "textCase"
+      }
+    },
+    "headings": {
+      "heading-1": {
+        "value": {
+          "fontFamily": "{font-family.primary}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{line-height.heading}",
+          "fontSize": "{font-size-medium.xl}",
+          "letterSpacing": "{letter-spacing.m}",
+          "paragraphSpacing": "{paragraph-spacing.heading}",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Premier niveau du format des sous-titres.",
+        "type": "typography"
+      },
+      "heading-2": {
+        "value": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.regular",
+          "lineHeight": "$line-height.heading",
+          "fontSize": "{font-size-medium.l}",
+          "letterSpacing": "$letter-spacing.m",
+          "paragraphSpacing": "$paragraph-spacing.heading",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "DeuxiÃ¨me niveau du format des sous-titres.",
+        "type": "typography"
+      },
+      "heading-3": {
+        "value": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.regular",
+          "lineHeight": "$line-height.heading",
+          "fontSize": "$font-size-medium.s",
+          "letterSpacing": "$letter-spacing.m",
+          "paragraphSpacing": "$paragraph-spacing.heading",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "TroisiÃ¨me niveau du format des sous-titres.",
+        "type": "typography"
+      },
+      "heading-4": {
+        "value": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.medium",
+          "lineHeight": "$line-height.heading",
+          "fontSize": "$font-size-medium-alt.xs",
+          "letterSpacing": "$letter-spacing.s",
+          "paragraphSpacing": "$paragraph-spacing.heading",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "QuatriÃ¨me niveau du format des sous-titres.",
+        "type": "typography"
+      },
+      "heading-5": {
+        "value": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.black",
+          "lineHeight": "$line-height.heading",
+          "fontSize": "$font-size-medium.xs",
+          "letterSpacing": "$letter-spacing.s",
+          "paragraphSpacing": "$paragraph-spacing.heading",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "CinquiÃ¨me niveau du format des sous-titres.",
+        "type": "typography"
+      },
+      "test": {
+        "value": {
+          "fontFamily": "Arial",
+          "fontWeight": "Regular",
+          "lineHeight": "AUTO",
+          "fontSize": "22",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "body": {
+      "body-1": {
+        "value": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.regular",
+          "lineHeight": "$line-height.body",
+          "fontSize": "$font-size-small-alt.s",
+          "letterSpacing": "$letter-spacing.s",
+          "paragraphSpacing": "$paragraph-spacing.body",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Premier niveau du format des paragraphes.",
+        "type": "typography"
+      },
+      "body-2": {
+        "value": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.regular",
+          "lineHeight": "$line-height.body",
+          "fontSize": "$font-size-small.s",
+          "letterSpacing": "$letter-spacing.s",
+          "paragraphSpacing": "$paragraph-spacing.body",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "DeuxiÃ¨me niveau du format des paragraphes.",
+        "type": "typography"
+      },
+      "body-3": {
+        "value": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.regular",
+          "lineHeight": "$line-height.body",
+          "fontSize": "$font-size-small-alt.xs",
+          "letterSpacing": "$letter-spacing.s",
+          "paragraphSpacing": "$paragraph-spacing.body",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "TroisiÃ¨me niveau du format des paragraphes.",
+        "type": "typography"
+      },
+      "body-4": {
+        "value": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.regular",
+          "lineHeight": "$line-height.body",
+          "fontSize": "$font-size-small.xs",
+          "letterSpacing": "$letter-spacing.s",
+          "paragraphSpacing": "$paragraph-spacing.body",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "QuatriÃ¨me niveau du format des paragraphes.",
+        "type": "typography"
+      },
+      "body-5": {
+        "value": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.regular",
+          "lineHeight": "$line-height.body",
+          "fontSize": "$font-size-small-alt.2xs",
+          "letterSpacing": "$letter-spacing.s",
+          "paragraphSpacing": "$paragraph-spacing.body",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "CinquiÃ¨me niveau du format des paragraphes.",
+        "type": "typography"
+      },
+      "body-6": {
+        "value": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.regular",
+          "lineHeight": "$line-height.body",
+          "fontSize": "$font-size-small-alt.3xs",
+          "letterSpacing": "$letter-spacing.s",
+          "paragraphSpacing": "$paragraph-spacing.body",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "SixiÃ¨me niveau du format des paragraphes.",
+        "type": "typography"
+      }
+    },
+    "theme": {
+      "bg": {
+        "value": "#ffffff",
+        "description": "Couleur du fond (background).",
+        "type": "color"
+      },
+      "titres": {
+        "value": "$color-primary.primary",
+        "description": "Couleur de la figure (foreground).",
+        "type": "color"
+      },
+      "textes": {
+        "value": "$colors-ui.darker",
+        "description": "Couleur des textes.",
+        "type": "color"
+      },
+      "bg-btn": {
+        "value": "$color-tertiary.tertiary",
+        "description": "Couleur du fond du bouton.",
+        "type": "color"
+      },
+      "input": {
+        "value": "$colors-ui.background",
+        "description": "Couleur des champs de saisie.",
+        "type": "color"
+      },
+      "stroke": {
+        "value": "$colors-ui.stroke",
+        "description": "Couleur des bordures.",
+        "type": "color"
+      },
+      "txt-btn": {
+        "value": "$color-primary.primary",
+        "description": "Couleur des textes du bouton.",
+        "type": "color"
+      }
+    },
+    "box-shadow": {
+      "none": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "#000000",
+          "type": "dropShadow"
+        },
+        "description": "Pas d'ombre.",
+        "type": "boxShadow"
+      }
+    }
   }
 }
