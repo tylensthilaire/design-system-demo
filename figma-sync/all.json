@@ -968,6 +968,10 @@
         "description": "Pas d'ombre.",
         "type": "boxShadow"
       }
+    },
+    "button": {
+      "value": "{border-radius.none}",
+      "type": "borderRadius"
     }
   },
   "nav&cat": {
@@ -1952,6 +1956,10 @@
         "description": "Pas d'ombre.",
         "type": "boxShadow"
       }
+    },
+    "button": {
+      "value": "{border-radius.m}",
+      "type": "borderRadius"
     }
   }
 }
