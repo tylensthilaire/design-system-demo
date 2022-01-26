@@ -48,7 +48,7 @@
       },
       "primary": {
         "value": "#c31724",
-        "description": "Couleur principale associÃ©e Ã  la marque.",
+        "description": "Couleur principale associÃÂ©e ÃÂ  la marque.",
         "type": "color"
       }
     },
@@ -100,7 +100,7 @@
       },
       "secondary": {
         "value": "#b80b86",
-        "description": "Couleur secondaire associÃ©e Ã  la marque.",
+        "description": "Couleur secondaire associÃÂ©e ÃÂ  la marque.",
         "type": "color"
       }
     },
@@ -152,7 +152,7 @@
       },
       "tertiary": {
         "value": "#24c1fd",
-        "description": "Couleur tertiaire associÃ©e Ã  la marque.",
+        "description": "Couleur tertiaire associÃÂ©e ÃÂ  la marque.",
         "type": "color"
       }
     },
@@ -204,7 +204,7 @@
       },
       "quaternary": {
         "value": "#a6ecfe",
-        "description": "Couleur quaternaire associÃ©e Ã  la marque.",
+        "description": "Couleur quaternaire associÃÂ©e ÃÂ  la marque.",
         "type": "color"
       }
     },
@@ -256,61 +256,61 @@
       },
       "accent": {
         "value": "#fdfe8b",
-        "description": "Couleur d'accent associÃ©e Ã  la marque.",
+        "description": "Couleur d'accent associÃÂ©e ÃÂ  la marque.",
         "type": "color"
       }
     },
     "colors-ui": {
       "darker": {
         "value": "#020a30",
-        "description": "La couleur la plus sombre de l'interface, Ã  utiliser Ã  la place de noir.",
+        "description": "La couleur la plus sombre de l'interface, ÃÂ  utiliser ÃÂ  la place de noir.",
         "type": "color"
       },
       "lighter": {
         "value": "#ffffff",
-        "description": "La couleur la plus pÃ¢le de l'interface.",
+        "description": "La couleur la plus pÃÂ¢le de l'interface.",
         "type": "color"
       },
       "stroke": {
         "value": "#dce2ed",
-        "description": "La couleur utilisÃ©e pour les bordures de l'interface.",
+        "description": "La couleur utilisÃÂ©e pour les bordures de l'interface.",
         "type": "color"
       },
       "background": {
         "value": "#f2f7fc",
-        "description": "La couleur utilisÃ©e pour les fonds de l'interface en mode clair.",
+        "description": "La couleur utilisÃÂ©e pour les fonds de l'interface en mode clair.",
         "type": "color"
       }
     },
     "size": {
       "xs": {
         "value": "4",
-        "description": "Token rÃ©gulier de trÃ¨s petite taille pour les composants de l'interface.",
+        "description": "Token rÃÂ©gulier de trÃÂ¨s petite taille pour les composants de l'interface.",
         "type": "sizing"
       },
       "s": {
         "value": "{size.xs} *2",
-        "description": "Token rÃ©gulier de petite taille pour les composants de l'interface.",
+        "description": "Token rÃÂ©gulier de petite taille pour les composants de l'interface.",
         "type": "sizing"
       },
       "m": {
         "value": "{size.s} *2",
-        "description": "Token rÃ©gulier de taille moyenne pour les composants de l'interface.",
+        "description": "Token rÃÂ©gulier de taille moyenne pour les composants de l'interface.",
         "type": "sizing"
       },
       "l": {
         "value": "{size.m} *2",
-        "description": "Token rÃ©gulier de taille large pour les composants de l'interface.",
+        "description": "Token rÃÂ©gulier de taille large pour les composants de l'interface.",
         "type": "sizing"
       },
       "xl": {
         "value": "{size.l} *2",
-        "description": "Token rÃ©gulier de taille trÃ¨s large pour les composants de l'interface.",
+        "description": "Token rÃÂ©gulier de taille trÃÂ¨s large pour les composants de l'interface.",
         "type": "sizing"
       },
       "2xl": {
         "value": "{size.xl} *2",
-        "description": "Token rÃ©gulier de taille trÃ¨s large pour les composants de l'interface.",
+        "description": "Token rÃÂ©gulier de taille trÃÂ¨s large pour les composants de l'interface.",
         "type": "sizing"
       }
     },
@@ -324,32 +324,32 @@
     "spacing": {
       "2xs": {
         "value": "2",
-        "description": "Token rÃ©gulier d'espacement qui a la plus petite taille.",
+        "description": "Token rÃÂ©gulier d'espacement qui a la plus petite taille.",
         "type": "spacing"
       },
       "xs": {
         "value": "{spacing.2xs} *2",
-        "description": "Token rÃ©gulier d'espacement de trÃ¨s petite taille.",
+        "description": "Token rÃÂ©gulier d'espacement de trÃÂ¨s petite taille.",
         "type": "spacing"
       },
       "s": {
         "value": "{spacing.xs} *2",
-        "description": "Token rÃ©gulier d'espacement de petite taille.",
+        "description": "Token rÃÂ©gulier d'espacement de petite taille.",
         "type": "spacing"
       },
       "m": {
         "value": "{spacing.s} *2",
-        "description": "Token rÃ©gulier d'espacement de taille moyenne.",
+        "description": "Token rÃÂ©gulier d'espacement de taille moyenne.",
         "type": "spacing"
       },
       "l": {
         "value": "{spacing.m} *2",
-        "description": "Token rÃ©gulier d'espacement de grande taille.",
+        "description": "Token rÃÂ©gulier d'espacement de grande taille.",
         "type": "spacing"
       },
       "xl": {
         "value": "{spacing.l} *2",
-        "description": "Token rÃ©gulier d'espacement de trÃ¨s grande taille.",
+        "description": "Token rÃÂ©gulier d'espacement de trÃÂ¨s grande taille.",
         "type": "spacing"
       }
     },
@@ -371,7 +371,7 @@
       },
       "xl": {
         "value": "{spacing-alt-a.l} *2",
-        "description": "Token alternatif d'espacement de trÃ¨s grande taille (variante A).",
+        "description": "Token alternatif d'espacement de trÃÂ¨s grande taille (variante A).",
         "type": "spacing"
       }
     },
@@ -383,7 +383,7 @@
       },
       "xl": {
         "value": "{spacing-alt-b.l} *2",
-        "description": "Token alternatif d'espacement de trÃ¨s grande taille (variante B).",
+        "description": "Token alternatif d'espacement de trÃÂ¨s grande taille (variante B).",
         "type": "spacing"
       },
       "2xl": {
@@ -400,34 +400,34 @@
       },
       "s": {
         "value": "{border-radius.xs} *2",
-        "description": "Rayon de bordure petit, utilisÃ© pour les images des menus des catÃ©gories.",
+        "description": "Rayon de bordure petit, utilisÃÂ© pour les images des menus des catÃÂ©gories.",
         "type": "borderRadius"
       },
       "m": {
         "value": "{border-radius.s} *3",
-        "description": "Rayon de bordure moyen, utilisÃ© pour les boutons et les cartes.",
+        "description": "Rayon de bordure moyen, utilisÃÂ© pour les boutons et les cartes.",
         "type": "borderRadius"
       },
       "l": {
         "value": "{border-radius.xs} *9",
-        "description": "Rayon de bordure grand, Ã  utiliser pour les cartes moyennes en carrousel.",
+        "description": "Rayon de bordure grand, ÃÂ  utiliser pour les cartes moyennes en carrousel.",
         "type": "borderRadius"
       },
       "none": {
         "value": "0",
-        "description": "Coins carrÃ©s.",
+        "description": "Coins carrÃÂ©s.",
         "type": "borderRadius"
       }
     },
     "border-width": {
       "s": {
         "value": "1",
-        "description": "Largeur du contour petit, Ã  utiliser pour les Ã©lÃ©ments de sÃ©paration de l'interface.",
+        "description": "Largeur du contour petit, ÃÂ  utiliser pour les ÃÂ©lÃÂ©ments de sÃÂ©paration de l'interface.",
         "type": "borderWidth"
       },
       "m": {
         "value": "{border-width.s} *2",
-        "description": "Largeur du contour moyen, Ã  utiliser pour les boutons.",
+        "description": "Largeur du contour moyen, ÃÂ  utiliser pour les boutons.",
         "type": "borderWidth"
       }
     },
@@ -441,7 +441,7 @@
           "color": "$color-primary.primary",
           "type": "dropShadow"
         },
-        "description": "Ombre portÃ© du bouton primaire sur fond clair en Ã©tat par dÃ©faut.",
+        "description": "Ombre portÃÂ© du bouton primaire sur fond clair en ÃÂ©tat par dÃÂ©faut.",
         "type": "boxShadow"
       },
       "hover": {
@@ -453,7 +453,7 @@
           "color": "$color-primary.primary",
           "type": "dropShadow"
         },
-        "description": "Ombre portÃ© du bouton primaire sur fond clair en Ã©tat de survol.",
+        "description": "Ombre portÃÂ© du bouton primaire sur fond clair en ÃÂ©tat de survol.",
         "type": "boxShadow"
       }
     },
@@ -467,7 +467,7 @@
           "color": "$colors-ui.lighter",
           "type": "dropShadow"
         },
-        "description": "Ombre portÃ© du bouton primaire sur fond sombre en Ã©tat par dÃ©faut.",
+        "description": "Ombre portÃÂ© du bouton primaire sur fond sombre en ÃÂ©tat par dÃÂ©faut.",
         "type": "boxShadow"
       },
       "hover": {
@@ -479,46 +479,46 @@
           "color": "$colors-ui.lighter",
           "type": "dropShadow"
         },
-        "description": "Ombre portÃ© du bouton primaire sur fond sombre en Ã©tat de survol.",
+        "description": "Ombre portÃÂ© du bouton primaire sur fond sombre en ÃÂ©tat de survol.",
         "type": "boxShadow"
       }
     },
     "font-family": {
       "primary": {
         "value": "Arial",
-        "description": "Police Ã  privilÃ©gier pour toutes les marques Loto-QuÃ©bec.",
+        "description": "Police ÃÂ  privilÃÂ©gier pour toutes les marques Loto-QuÃÂ©bec.",
         "type": "fontFamilies"
       }
     },
     "font-weight": {
       "regular": {
         "value": "Regular",
-        "description": "Police de caractÃ¨re rÃ©guliÃ¨re.",
+        "description": "Police de caractÃÂ¨re rÃÂ©guliÃÂ¨re.",
         "type": "fontWeights"
       },
       "medium": {
         "value": "Medium",
-        "description": "Police de caractÃ¨re moyenne.",
+        "description": "Police de caractÃÂ¨re moyenne.",
         "type": "fontWeights"
       },
       "semibold": {
         "value": "Semibold",
-        "description": "Police de caractÃ¨re demi-gras.",
+        "description": "Police de caractÃÂ¨re demi-gras.",
         "type": "fontWeights"
       },
       "bold": {
         "value": "Bold",
-        "description": "Police de caractÃ¨re gras.",
+        "description": "Police de caractÃÂ¨re gras.",
         "type": "fontWeights"
       },
       "black": {
         "value": "Black",
-        "description": "Police de caractÃ¨re trÃ¨s gras.",
+        "description": "Police de caractÃÂ¨re trÃÂ¨s gras.",
         "type": "fontWeights"
       },
       "super": {
         "value": "Super",
-        "description": "Police de caractÃ¨re noire.",
+        "description": "Police de caractÃÂ¨re noire.",
         "type": "fontWeights"
       }
     },
@@ -542,7 +542,7 @@
     "line-height-alt": {
       "body": {
         "value": "120%",
-        "description": "Interlignage des paragraphes serrÃ©.",
+        "description": "Interlignage des paragraphes serrÃÂ©.",
         "type": "lineHeights"
       }
     },
@@ -554,7 +554,7 @@
       },
       "s": {
         "value": "{font-size-small.xs} +2",
-        "description": "Texte de petit format. Taille rÃ©guliÃ¨re.",
+        "description": "Texte de petit format. Taille rÃÂ©guliÃÂ¨re.",
         "type": "fontSizes"
       }
     },
@@ -566,7 +566,7 @@
       },
       "2xs": {
         "value": "{font-size-small-alt.3xs} +2",
-        "description": "Texte de petit format (alternatif). Taille trÃ¨s petite.",
+        "description": "Texte de petit format (alternatif). Taille trÃÂ¨s petite.",
         "type": "fontSizes"
       },
       "xs": {
@@ -576,7 +576,7 @@
       },
       "s": {
         "value": "{font-size-small-alt.xs} +2",
-        "description": "Texte de petit format (alternatif). Taille reguliÃ¨re.",
+        "description": "Texte de petit format (alternatif). Taille reguliÃÂ¨re.",
         "type": "fontSizes"
       }
     },
@@ -588,7 +588,7 @@
       },
       "s": {
         "value": "{font-size-medium.xs} +2",
-        "description": "Texte de format moyen. Taille rÃ©guliÃ¨re.",
+        "description": "Texte de format moyen. Taille rÃÂ©guliÃÂ¨re.",
         "type": "fontSizes"
       },
       "l": {
@@ -598,7 +598,7 @@
       },
       "xl": {
         "value": "{font-size-medium.l} +2",
-        "description": "Texte de format moyen. Taille trÃ¨s grande.",
+        "description": "Texte de format moyen. Taille trÃÂ¨s grande.",
         "type": "fontSizes"
       }
     },
@@ -622,7 +622,7 @@
       },
       "m": {
         "value": "{font-size-large.s} +4",
-        "description": "Texte de grand format. Taille rÃ©guliÃ¨re.",
+        "description": "Texte de grand format. Taille rÃÂ©guliÃÂ¨re.",
         "type": "fontSizes"
       },
       "l": {
@@ -644,7 +644,7 @@
       },
       "m": {
         "value": "0%",
-        "description": "Interlettrage rÃ©gulier.",
+        "description": "Interlettrage rÃÂ©gulier.",
         "type": "letterSpacing"
       },
       "l": {
@@ -661,22 +661,22 @@
     "paragraph-spacing": {
       "none": {
         "value": "none",
-        "description": "La sÃ©paration entre paragraphes/titres est Ã©gale Ã  zÃ©ro.",
+        "description": "La sÃÂ©paration entre paragraphes/titres est ÃÂ©gale ÃÂ  zÃÂ©ro.",
         "type": "paragraphSpacing"
       },
       "body": {
         "value": "8%",
-        "description": "SÃ©paration entre paragraphes.",
+        "description": "SÃÂ©paration entre paragraphes.",
         "type": "paragraphSpacing"
       },
       "heading": {
         "value": "12%",
-        "description": "SÃ©paration entre titres.",
+        "description": "SÃÂ©paration entre titres.",
         "type": "paragraphSpacing"
       },
       "display": {
         "value": "16%",
-        "description": "SÃ©paration entre gros titres.",
+        "description": "SÃÂ©paration entre gros titres.",
         "type": "paragraphSpacing"
       }
     },
@@ -706,7 +706,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "DeuxiÃ¨me niveau du format des titres.",
+        "description": "DeuxiÃÂ¨me niveau du format des titres.",
         "type": "typography"
       },
       "display-3": {
@@ -720,33 +720,33 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "TrosiÃ¨me niveau du format des titres.",
+        "description": "TrosiÃÂ¨me niveau du format des titres.",
         "type": "typography"
       },
       "display-4": {
         "value": {
           "fontFamily": "$font-family.primary",
-          "fontWeight": "$font-weight.black",
+          "fontWeight": "$font-weight.regular",
           "lineHeight": "$line-height.display",
-          "fontSize": "$font-size-large.xs",
+          "fontSize": "$font-size-small.xs",
           "letterSpacing": "$letter-spacing.l",
           "paragraphSpacing": "$paragraph-spacing.display",
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "QuatriÃ¨me niveau du format des titres.",
+        "description": "QuatriÃÂ¨me niveau du format des titres.",
         "type": "typography"
       }
     },
     "text-case": {
       "none": {
         "value": "none",
-        "description": " La casse des textes par dÃ©faut.",
+        "description": " La casse des textes par dÃÂ©faut.",
         "type": "textCase"
       },
       "capitalize": {
         "value": "capitalize",
-        "description": "Le premier caractÃ¨re des textes est en majuscules.",
+        "description": "Le premier caractÃÂ¨re des textes est en majuscules.",
         "type": "textCase"
       },
       "uppercase": {
@@ -786,7 +786,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "DeuxiÃ¨me niveau du format des sous-titres.",
+        "description": "DeuxiÃÂ¨me niveau du format des sous-titres.",
         "type": "typography"
       },
       "heading-3": {
@@ -800,7 +800,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "TroisiÃ¨me niveau du format des sous-titres.",
+        "description": "TroisiÃÂ¨me niveau du format des sous-titres.",
         "type": "typography"
       },
       "heading-4": {
@@ -814,7 +814,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "QuatriÃ¨me niveau du format des sous-titres.",
+        "description": "QuatriÃÂ¨me niveau du format des sous-titres.",
         "type": "typography"
       },
       "heading-5": {
@@ -828,7 +828,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "CinquiÃ¨me niveau du format des sous-titres.",
+        "description": "CinquiÃÂ¨me niveau du format des sous-titres.",
         "type": "typography"
       }
     },
@@ -858,7 +858,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "DeuxiÃ¨me niveau du format des paragraphes.",
+        "description": "DeuxiÃÂ¨me niveau du format des paragraphes.",
         "type": "typography"
       },
       "body-3": {
@@ -872,7 +872,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "TroisiÃ¨me niveau du format des paragraphes.",
+        "description": "TroisiÃÂ¨me niveau du format des paragraphes.",
         "type": "typography"
       },
       "body-4": {
@@ -886,7 +886,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "QuatriÃ¨me niveau du format des paragraphes.",
+        "description": "QuatriÃÂ¨me niveau du format des paragraphes.",
         "type": "typography"
       },
       "body-5": {
@@ -900,7 +900,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "CinquiÃ¨me niveau du format des paragraphes.",
+        "description": "CinquiÃÂ¨me niveau du format des paragraphes.",
         "type": "typography"
       },
       "body-6": {
@@ -914,7 +914,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "SixiÃ¨me niveau du format des paragraphes.",
+        "description": "SixiÃÂ¨me niveau du format des paragraphes.",
         "type": "typography"
       }
     },
@@ -1019,7 +1019,7 @@
       },
       "primary": {
         "value": "#192872",
-        "description": "Couleur principale associÃ©e Ã  la marque.",
+        "description": "Couleur principale associÃÂ©e ÃÂ  la marque.",
         "type": "color"
       }
     },
@@ -1071,7 +1071,7 @@
       },
       "secondary": {
         "value": "#0b5db7",
-        "description": "Couleur secondaire associÃ©e Ã  la marque.",
+        "description": "Couleur secondaire associÃÂ©e ÃÂ  la marque.",
         "type": "color"
       }
     },
@@ -1123,7 +1123,7 @@
       },
       "tertiary": {
         "value": "#24c1fd",
-        "description": "Couleur tertiaire associÃ©e Ã  la marque.",
+        "description": "Couleur tertiaire associÃÂ©e ÃÂ  la marque.",
         "type": "color"
       }
     },
@@ -1175,7 +1175,7 @@
       },
       "quaternary": {
         "value": "#a6ecfe",
-        "description": "Couleur quaternaire associÃ©e Ã  la marque.",
+        "description": "Couleur quaternaire associÃÂ©e ÃÂ  la marque.",
         "type": "color"
       }
     },
@@ -1227,61 +1227,61 @@
       },
       "accent": {
         "value": "#fdfe8b",
-        "description": "Couleur d'accent associÃ©e Ã  la marque.",
+        "description": "Couleur d'accent associÃÂ©e ÃÂ  la marque.",
         "type": "color"
       }
     },
     "colors-ui": {
       "darker": {
         "value": "#020a30",
-        "description": "La couleur la plus sombre de l'interface, Ã  utiliser Ã  la place de noir.",
+        "description": "La couleur la plus sombre de l'interface, ÃÂ  utiliser ÃÂ  la place de noir.",
         "type": "color"
       },
       "lighter": {
         "value": "#ffffff",
-        "description": "La couleur la plus pÃ¢le de l'interface.",
+        "description": "La couleur la plus pÃÂ¢le de l'interface.",
         "type": "color"
       },
       "stroke": {
         "value": "#dce2ed",
-        "description": "La couleur utilisÃ©e pour les bordures de l'interface.",
+        "description": "La couleur utilisÃÂ©e pour les bordures de l'interface.",
         "type": "color"
       },
       "background": {
         "value": "#f2f7fc",
-        "description": "La couleur utilisÃ©e pour les fonds de l'interface en mode clair.",
+        "description": "La couleur utilisÃÂ©e pour les fonds de l'interface en mode clair.",
         "type": "color"
       }
     },
     "size": {
       "xs": {
         "value": "4",
-        "description": "Token rÃ©gulier de trÃ¨s petite taille pour les composants de l'interface.",
+        "description": "Token rÃÂ©gulier de trÃÂ¨s petite taille pour les composants de l'interface.",
         "type": "sizing"
       },
       "s": {
         "value": "{size.xs} *2",
-        "description": "Token rÃ©gulier de petite taille pour les composants de l'interface.",
+        "description": "Token rÃÂ©gulier de petite taille pour les composants de l'interface.",
         "type": "sizing"
       },
       "m": {
         "value": "{size.s} *2",
-        "description": "Token rÃ©gulier de taille moyenne pour les composants de l'interface.",
+        "description": "Token rÃÂ©gulier de taille moyenne pour les composants de l'interface.",
         "type": "sizing"
       },
       "l": {
         "value": "{size.m} *2",
-        "description": "Token rÃ©gulier de taille large pour les composants de l'interface.",
+        "description": "Token rÃÂ©gulier de taille large pour les composants de l'interface.",
         "type": "sizing"
       },
       "xl": {
         "value": "{size.l} *2",
-        "description": "Token rÃ©gulier de taille trÃ¨s large pour les composants de l'interface.",
+        "description": "Token rÃÂ©gulier de taille trÃÂ¨s large pour les composants de l'interface.",
         "type": "sizing"
       },
       "2xl": {
         "value": "{size.xl} *2",
-        "description": "Token rÃ©gulier de taille trÃ¨s large pour les composants de l'interface.",
+        "description": "Token rÃÂ©gulier de taille trÃÂ¨s large pour les composants de l'interface.",
         "type": "sizing"
       }
     },
@@ -1295,32 +1295,32 @@
     "spacing": {
       "2xs": {
         "value": "2",
-        "description": "Token rÃ©gulier d'espacement qui a la plus petite taille.",
+        "description": "Token rÃÂ©gulier d'espacement qui a la plus petite taille.",
         "type": "spacing"
       },
       "xs": {
         "value": "{spacing.2xs} *2",
-        "description": "Token rÃ©gulier d'espacement de trÃ¨s petite taille.",
+        "description": "Token rÃÂ©gulier d'espacement de trÃÂ¨s petite taille.",
         "type": "spacing"
       },
       "s": {
         "value": "{spacing.xs} *2",
-        "description": "Token rÃ©gulier d'espacement de petite taille.",
+        "description": "Token rÃÂ©gulier d'espacement de petite taille.",
         "type": "spacing"
       },
       "m": {
         "value": "{spacing.s} *2",
-        "description": "Token rÃ©gulier d'espacement de taille moyenne.",
+        "description": "Token rÃÂ©gulier d'espacement de taille moyenne.",
         "type": "spacing"
       },
       "l": {
         "value": "{spacing.m} *2",
-        "description": "Token rÃ©gulier d'espacement de grande taille.",
+        "description": "Token rÃÂ©gulier d'espacement de grande taille.",
         "type": "spacing"
       },
       "xl": {
         "value": "{spacing.l} *2",
-        "description": "Token rÃ©gulier d'espacement de trÃ¨s grande taille.",
+        "description": "Token rÃÂ©gulier d'espacement de trÃÂ¨s grande taille.",
         "type": "spacing"
       }
     },
@@ -1342,7 +1342,7 @@
       },
       "xl": {
         "value": "{spacing-alt-a.l} *2",
-        "description": "Token alternatif d'espacement de trÃ¨s grande taille (variante A).",
+        "description": "Token alternatif d'espacement de trÃÂ¨s grande taille (variante A).",
         "type": "spacing"
       }
     },
@@ -1354,7 +1354,7 @@
       },
       "xl": {
         "value": "{spacing-alt-b.l} *2",
-        "description": "Token alternatif d'espacement de trÃ¨s grande taille (variante B).",
+        "description": "Token alternatif d'espacement de trÃÂ¨s grande taille (variante B).",
         "type": "spacing"
       },
       "2xl": {
@@ -1371,34 +1371,34 @@
       },
       "s": {
         "value": "{border-radius.xs} *2",
-        "description": "Rayon de bordure petit, utilisÃ© pour les images des menus des catÃ©gories.",
+        "description": "Rayon de bordure petit, utilisÃÂ© pour les images des menus des catÃÂ©gories.",
         "type": "borderRadius"
       },
       "m": {
         "value": "{border-radius.s} *3",
-        "description": "Rayon de bordure moyen, utilisÃ© pour les boutons et les cartes.",
+        "description": "Rayon de bordure moyen, utilisÃÂ© pour les boutons et les cartes.",
         "type": "borderRadius"
       },
       "l": {
         "value": "{border-radius.xs} *9",
-        "description": "Rayon de bordure grand, Ã  utiliser pour les cartes moyennes en carrousel.",
+        "description": "Rayon de bordure grand, ÃÂ  utiliser pour les cartes moyennes en carrousel.",
         "type": "borderRadius"
       },
       "none": {
         "value": "0",
-        "description": "Coins carrÃ©s.",
+        "description": "Coins carrÃÂ©s.",
         "type": "borderRadius"
       }
     },
     "border-width": {
       "s": {
         "value": "1",
-        "description": "Largeur du contour petit, Ã  utiliser pour les Ã©lÃ©ments de sÃ©paration de l'interface.",
+        "description": "Largeur du contour petit, ÃÂ  utiliser pour les ÃÂ©lÃÂ©ments de sÃÂ©paration de l'interface.",
         "type": "borderWidth"
       },
       "m": {
         "value": "{border-width.s} *2",
-        "description": "Largeur du contour moyen, Ã  utiliser pour les boutons.",
+        "description": "Largeur du contour moyen, ÃÂ  utiliser pour les boutons.",
         "type": "borderWidth"
       }
     },
@@ -1412,7 +1412,7 @@
           "color": "$color-primary.primary",
           "type": "dropShadow"
         },
-        "description": "Ombre portÃ© du bouton primaire sur fond clair en Ã©tat par dÃ©faut.",
+        "description": "Ombre portÃÂ© du bouton primaire sur fond clair en ÃÂ©tat par dÃÂ©faut.",
         "type": "boxShadow"
       },
       "hover": {
@@ -1424,7 +1424,7 @@
           "color": "$color-primary.primary",
           "type": "dropShadow"
         },
-        "description": "Ombre portÃ© du bouton primaire sur fond clair en Ã©tat de survol.",
+        "description": "Ombre portÃÂ© du bouton primaire sur fond clair en ÃÂ©tat de survol.",
         "type": "boxShadow"
       }
     },
@@ -1438,7 +1438,7 @@
           "color": "$colors-ui.lighter",
           "type": "dropShadow"
         },
-        "description": "Ombre portÃ© du bouton primaire sur fond sombre en Ã©tat par dÃ©faut.",
+        "description": "Ombre portÃÂ© du bouton primaire sur fond sombre en ÃÂ©tat par dÃÂ©faut.",
         "type": "boxShadow"
       },
       "hover": {
@@ -1450,46 +1450,46 @@
           "color": "$colors-ui.lighter",
           "type": "dropShadow"
         },
-        "description": "Ombre portÃ© du bouton primaire sur fond sombre en Ã©tat de survol.",
+        "description": "Ombre portÃÂ© du bouton primaire sur fond sombre en ÃÂ©tat de survol.",
         "type": "boxShadow"
       }
     },
     "font-family": {
       "primary": {
         "value": "Abel",
-        "description": "Police Ã  privilÃ©gier pour toutes les marques Loto-QuÃ©bec.",
+        "description": "Police ÃÂ  privilÃÂ©gier pour toutes les marques Loto-QuÃÂ©bec.",
         "type": "fontFamilies"
       }
     },
     "font-weight": {
       "regular": {
         "value": "Regular",
-        "description": "Police de caractÃ¨re rÃ©guliÃ¨re.",
+        "description": "Police de caractÃÂ¨re rÃÂ©guliÃÂ¨re.",
         "type": "fontWeights"
       },
       "medium": {
         "value": "Medium",
-        "description": "Police de caractÃ¨re moyenne.",
+        "description": "Police de caractÃÂ¨re moyenne.",
         "type": "fontWeights"
       },
       "semibold": {
         "value": "Semibold",
-        "description": "Police de caractÃ¨re demi-gras.",
+        "description": "Police de caractÃÂ¨re demi-gras.",
         "type": "fontWeights"
       },
       "bold": {
         "value": "Bold",
-        "description": "Police de caractÃ¨re gras.",
+        "description": "Police de caractÃÂ¨re gras.",
         "type": "fontWeights"
       },
       "black": {
         "value": "Black",
-        "description": "Police de caractÃ¨re trÃ¨s gras.",
+        "description": "Police de caractÃÂ¨re trÃÂ¨s gras.",
         "type": "fontWeights"
       },
       "super": {
         "value": "Super",
-        "description": "Police de caractÃ¨re noire.",
+        "description": "Police de caractÃÂ¨re noire.",
         "type": "fontWeights"
       }
     },
@@ -1513,7 +1513,7 @@
     "line-height-alt": {
       "body": {
         "value": "120%",
-        "description": "Interlignage des paragraphes serrÃ©.",
+        "description": "Interlignage des paragraphes serrÃÂ©.",
         "type": "lineHeights"
       }
     },
@@ -1525,7 +1525,7 @@
       },
       "s": {
         "value": "{font-size-small.xs} +2",
-        "description": "Texte de petit format. Taille rÃ©guliÃ¨re.",
+        "description": "Texte de petit format. Taille rÃÂ©guliÃÂ¨re.",
         "type": "fontSizes"
       }
     },
@@ -1537,7 +1537,7 @@
       },
       "2xs": {
         "value": "{font-size-small-alt.3xs} +2",
-        "description": "Texte de petit format (alternatif). Taille trÃ¨s petite.",
+        "description": "Texte de petit format (alternatif). Taille trÃÂ¨s petite.",
         "type": "fontSizes"
       },
       "xs": {
@@ -1547,7 +1547,7 @@
       },
       "s": {
         "value": "{font-size-small-alt.xs} +2",
-        "description": "Texte de petit format (alternatif). Taille reguliÃ¨re.",
+        "description": "Texte de petit format (alternatif). Taille reguliÃÂ¨re.",
         "type": "fontSizes"
       }
     },
@@ -1559,7 +1559,7 @@
       },
       "s": {
         "value": "{font-size-medium.xs} +2",
-        "description": "Texte de format moyen. Taille rÃ©guliÃ¨re.",
+        "description": "Texte de format moyen. Taille rÃÂ©guliÃÂ¨re.",
         "type": "fontSizes"
       },
       "l": {
@@ -1569,7 +1569,7 @@
       },
       "xl": {
         "value": "{font-size-medium.l} +2",
-        "description": "Texte de format moyen. Taille trÃ¨s grande.",
+        "description": "Texte de format moyen. Taille trÃÂ¨s grande.",
         "type": "fontSizes"
       }
     },
@@ -1593,7 +1593,7 @@
       },
       "m": {
         "value": "{font-size-large.s} +4",
-        "description": "Texte de grand format. Taille rÃ©guliÃ¨re.",
+        "description": "Texte de grand format. Taille rÃÂ©guliÃÂ¨re.",
         "type": "fontSizes"
       },
       "l": {
@@ -1615,7 +1615,7 @@
       },
       "m": {
         "value": "0%",
-        "description": "Interlettrage rÃ©gulier.",
+        "description": "Interlettrage rÃÂ©gulier.",
         "type": "letterSpacing"
       },
       "l": {
@@ -1632,22 +1632,22 @@
     "paragraph-spacing": {
       "none": {
         "value": "none",
-        "description": "La sÃ©paration entre paragraphes/titres est Ã©gale Ã  zÃ©ro.",
+        "description": "La sÃÂ©paration entre paragraphes/titres est ÃÂ©gale ÃÂ  zÃÂ©ro.",
         "type": "paragraphSpacing"
       },
       "body": {
         "value": "8%",
-        "description": "SÃ©paration entre paragraphes.",
+        "description": "SÃÂ©paration entre paragraphes.",
         "type": "paragraphSpacing"
       },
       "heading": {
         "value": "12%",
-        "description": "SÃ©paration entre titres.",
+        "description": "SÃÂ©paration entre titres.",
         "type": "paragraphSpacing"
       },
       "display": {
         "value": "16%",
-        "description": "SÃ©paration entre gros titres.",
+        "description": "SÃÂ©paration entre gros titres.",
         "type": "paragraphSpacing"
       }
     },
@@ -1677,7 +1677,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "DeuxiÃ¨me niveau du format des titres.",
+        "description": "DeuxiÃÂ¨me niveau du format des titres.",
         "type": "typography"
       },
       "display-3": {
@@ -1691,33 +1691,33 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "TrosiÃ¨me niveau du format des titres.",
+        "description": "TrosiÃÂ¨me niveau du format des titres.",
         "type": "typography"
       },
       "display-4": {
         "value": {
           "fontFamily": "$font-family.primary",
-          "fontWeight": "$font-weight.black",
+          "fontWeight": "$font-weight.regular",
           "lineHeight": "$line-height.display",
-          "fontSize": "$font-size-large.xs",
+          "fontSize": "$font-size-small.xs",
           "letterSpacing": "$letter-spacing.l",
           "paragraphSpacing": "$paragraph-spacing.display",
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "QuatriÃ¨me niveau du format des titres.",
+        "description": "QuatriÃÂ¨me niveau du format des titres.",
         "type": "typography"
       }
     },
     "text-case": {
       "none": {
         "value": "none",
-        "description": " La casse des textes par dÃ©faut.",
+        "description": " La casse des textes par dÃÂ©faut.",
         "type": "textCase"
       },
       "capitalize": {
         "value": "capitalize",
-        "description": "Le premier caractÃ¨re des textes est en majuscules.",
+        "description": "Le premier caractÃÂ¨re des textes est en majuscules.",
         "type": "textCase"
       },
       "uppercase": {
@@ -1757,7 +1757,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "DeuxiÃ¨me niveau du format des sous-titres.",
+        "description": "DeuxiÃÂ¨me niveau du format des sous-titres.",
         "type": "typography"
       },
       "heading-3": {
@@ -1771,7 +1771,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "TroisiÃ¨me niveau du format des sous-titres.",
+        "description": "TroisiÃÂ¨me niveau du format des sous-titres.",
         "type": "typography"
       },
       "heading-4": {
@@ -1785,7 +1785,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "QuatriÃ¨me niveau du format des sous-titres.",
+        "description": "QuatriÃÂ¨me niveau du format des sous-titres.",
         "type": "typography"
       },
       "heading-5": {
@@ -1799,7 +1799,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "CinquiÃ¨me niveau du format des sous-titres.",
+        "description": "CinquiÃÂ¨me niveau du format des sous-titres.",
         "type": "typography"
       },
       "test": {
@@ -1842,7 +1842,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "DeuxiÃ¨me niveau du format des paragraphes.",
+        "description": "DeuxiÃÂ¨me niveau du format des paragraphes.",
         "type": "typography"
       },
       "body-3": {
@@ -1856,7 +1856,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "TroisiÃ¨me niveau du format des paragraphes.",
+        "description": "TroisiÃÂ¨me niveau du format des paragraphes.",
         "type": "typography"
       },
       "body-4": {
@@ -1870,7 +1870,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "QuatriÃ¨me niveau du format des paragraphes.",
+        "description": "QuatriÃÂ¨me niveau du format des paragraphes.",
         "type": "typography"
       },
       "body-5": {
@@ -1884,7 +1884,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "CinquiÃ¨me niveau du format des paragraphes.",
+        "description": "CinquiÃÂ¨me niveau du format des paragraphes.",
         "type": "typography"
       },
       "body-6": {
@@ -1898,7 +1898,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "SixiÃ¨me niveau du format des paragraphes.",
+        "description": "SixiÃÂ¨me niveau du format des paragraphes.",
         "type": "typography"
       }
     },
