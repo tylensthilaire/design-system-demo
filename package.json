@@ -5,7 +5,6 @@
   },
   "dependencies": {},
   "scripts": {
-    "transformMoj": "token-transformer figma-sync/all.json transformer-output/all.json moj --expandTypography=true && style-dictionary build",
-    "transformNavCat": "token-transformer figma-sync/all.json transformer-output/all.json 'nav&cat' --expandTypography=true && style-dictionary build"
+    "build": "token-transformer figma-sync/all.json transformer-output/moj.json moj --expandTypography=true && token-transformer figma-sync/all.json transformer-output/nav-cat.json 'nav&cat' --expandTypography=true && node build.js"
   }
 }
