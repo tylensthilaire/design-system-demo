@@ -1,0 +1,1155 @@
+{
+  "color-primary": {
+    "100": {
+      "value": "#c317241a",
+      "description": "10 % de la color primaire.",
+      "type": "color"
+    },
+    "200": {
+      "value": "#c3172433",
+      "description": "20 % de la couleur primaire.",
+      "type": "color"
+    },
+    "300": {
+      "value": "#c317244d",
+      "description": "30 % de la couleur primaire.",
+      "type": "color"
+    },
+    "400": {
+      "value": "#c3172466",
+      "description": "40 % de la couleur primaire.",
+      "type": "color"
+    },
+    "500": {
+      "value": "#c3172480",
+      "description": "50 % de la couleur primaire.",
+      "type": "color"
+    },
+    "600": {
+      "value": "#c3172499",
+      "description": "60 % de la couleur primaire.",
+      "type": "color"
+    },
+    "700": {
+      "value": "#c31724b3",
+      "description": "70 % de la couleur primaire.",
+      "type": "color"
+    },
+    "800": {
+      "value": "#c31724cc",
+      "description": "80 % de la couleur primaire.",
+      "type": "color"
+    },
+    "900": {
+      "value": "#c31724e6",
+      "description": "90 % de la couleur primaire.",
+      "type": "color"
+    },
+    "primary": {
+      "value": "#c31724",
+      "description": "Couleur principale associÃÂÃÂÃÂÃÂ©e ÃÂÃÂÃÂÃÂ  la marque.",
+      "type": "color"
+    }
+  },
+  "color-secondary": {
+    "100": {
+      "value": "#b80b861a",
+      "description": "10 % de la couleur secondaire.",
+      "type": "color"
+    },
+    "200": {
+      "value": "#b80b8633",
+      "description": "20 % de la couleur secondaire.",
+      "type": "color"
+    },
+    "300": {
+      "value": "#b80b864d",
+      "description": "30 % de la couleur secondaire.",
+      "type": "color"
+    },
+    "400": {
+      "value": "#b80b8666",
+      "description": "40 % de la couleur secondaire.",
+      "type": "color"
+    },
+    "500": {
+      "value": "#b80b8680",
+      "description": "50 % de la couleur secondaire.",
+      "type": "color"
+    },
+    "600": {
+      "value": "#b80b8699",
+      "description": "60 % de la couleur secondaire.",
+      "type": "color"
+    },
+    "700": {
+      "value": "#b80b86b3",
+      "description": "70 % de la couleur secondaire.",
+      "type": "color"
+    },
+    "800": {
+      "value": "#b80b86cc",
+      "description": "80 % de la couleur secondaire.",
+      "type": "color"
+    },
+    "900": {
+      "value": "#b80b86e6",
+      "description": "90 % de la couleur secondaire.",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#b80b86",
+      "description": "Couleur secondaire associÃÂÃÂÃÂÃÂ©e ÃÂÃÂÃÂÃÂ  la marque.",
+      "type": "color"
+    }
+  },
+  "color-tertiary": {
+    "100": {
+      "value": "#24c1fd1a",
+      "description": "10 % de la couleur teriaire.",
+      "type": "color"
+    },
+    "200": {
+      "value": "#24c1fd33",
+      "description": "20 % de la couleur teriaire.",
+      "type": "color"
+    },
+    "300": {
+      "value": "#24c1fd4d",
+      "description": "30 % de la couleur teriaire.",
+      "type": "color"
+    },
+    "400": {
+      "value": "#24c1fd66",
+      "description": "40 % de la couleur teriaire.",
+      "type": "color"
+    },
+    "500": {
+      "value": "#24c1fd80",
+      "description": "50 % de la couleur teriaire.",
+      "type": "color"
+    },
+    "600": {
+      "value": "#24c1fd99",
+      "description": "60 % de la couleur teriaire.",
+      "type": "color"
+    },
+    "700": {
+      "value": "#24c1fdb3",
+      "description": "70 % de la couleur teriaire.",
+      "type": "color"
+    },
+    "800": {
+      "value": "#24c1fdcc",
+      "description": "80 % de la couleur teriaire.",
+      "type": "color"
+    },
+    "900": {
+      "value": "#24c1fde6",
+      "description": "90 % de la couleur teriaire.",
+      "type": "color"
+    },
+    "tertiary": {
+      "value": "#24c1fd",
+      "description": "Couleur tertiaire associÃÂÃÂÃÂÃÂ©e ÃÂÃÂÃÂÃÂ  la marque.",
+      "type": "color"
+    }
+  },
+  "color-quaternary": {
+    "100": {
+      "value": "#a6ecfe1a",
+      "description": "10 % de la couleur quaternaire.",
+      "type": "color"
+    },
+    "200": {
+      "value": "#a6ecfe33",
+      "description": "20 % de la couleur quaternaire.",
+      "type": "color"
+    },
+    "300": {
+      "value": "#a6ecfe4d",
+      "description": "30 % de la couleur quaternaire.",
+      "type": "color"
+    },
+    "400": {
+      "value": "#a6ecfe66",
+      "description": "40 % de la couleur quaternaire.",
+      "type": "color"
+    },
+    "500": {
+      "value": "#a6ecfe80",
+      "description": "50 % de la couleur quaternaire.",
+      "type": "color"
+    },
+    "600": {
+      "value": "#a6ecfe99",
+      "description": "60 % de la couleur quaternaire.",
+      "type": "color"
+    },
+    "700": {
+      "value": "#a6ecfeb3",
+      "description": "70 % de la couleur quaternaire.",
+      "type": "color"
+    },
+    "800": {
+      "value": "#a6ecfecc",
+      "description": "80 % de la couleur quaternaire.",
+      "type": "color"
+    },
+    "900": {
+      "value": "#a6ecfee6",
+      "description": "90 % de la couleur quaternaire.",
+      "type": "color"
+    },
+    "quaternary": {
+      "value": "#a6ecfe",
+      "description": "Couleur quaternaire associÃÂÃÂÃÂÃÂ©e ÃÂÃÂÃÂÃÂ  la marque.",
+      "type": "color"
+    }
+  },
+  "color-accent": {
+    "100": {
+      "value": "#fdfe8b1a",
+      "description": "10 % de la color d'accent.",
+      "type": "color"
+    },
+    "200": {
+      "value": "#fdfe8b33",
+      "description": "20 % de la color d'accent.",
+      "type": "color"
+    },
+    "300": {
+      "value": "#fdfe8b4d",
+      "description": "30 % de la color d'accent.",
+      "type": "color"
+    },
+    "400": {
+      "value": "#fdfe8b66",
+      "description": "40 % de la color d'accent.",
+      "type": "color"
+    },
+    "500": {
+      "value": "#fdfe8b80",
+      "description": "50 % de la color d'accent.",
+      "type": "color"
+    },
+    "600": {
+      "value": "#fdfe8b99",
+      "description": "60 % de la color d'accent.",
+      "type": "color"
+    },
+    "700": {
+      "value": "#fdfe8bb3",
+      "description": "70 % de la color d'accent.",
+      "type": "color"
+    },
+    "800": {
+      "value": "#fdfe8bcc",
+      "description": "80 % de la color d'accent.",
+      "type": "color"
+    },
+    "900": {
+      "value": "#fdfe8be6",
+      "description": "90 % de la color d'accent.",
+      "type": "color"
+    },
+    "accent": {
+      "value": "#fdfe8b",
+      "description": "Couleur d'accent associÃÂÃÂÃÂÃÂ©e ÃÂÃÂÃÂÃÂ  la marque.",
+      "type": "color"
+    }
+  },
+  "colors-ui": {
+    "darker": {
+      "value": "#020a30",
+      "description": "La couleur la plus sombre de l'interface, ÃÂÃÂÃÂÃÂ  utiliser ÃÂÃÂÃÂÃÂ  la place de noir.",
+      "type": "color"
+    },
+    "lighter": {
+      "value": "#ffffff",
+      "description": "La couleur la plus pÃÂÃÂÃÂÃÂ¢le de l'interface.",
+      "type": "color"
+    },
+    "stroke": {
+      "value": "#dce2ed",
+      "description": "La couleur utilisÃÂÃÂÃÂÃÂ©e pour les bordures de l'interface.",
+      "type": "color"
+    },
+    "background": {
+      "value": "#f2f7fc",
+      "description": "La couleur utilisÃÂÃÂÃÂÃÂ©e pour les fonds de l'interface en mode clair.",
+      "type": "color"
+    }
+  },
+  "size": {
+    "xs": {
+      "value": 4,
+      "description": "Token rÃÂÃÂÃÂÃÂ©gulier de trÃÂÃÂÃÂÃÂ¨s petite taille pour les composants de l'interface.",
+      "type": "sizing"
+    },
+    "s": {
+      "value": 8,
+      "description": "Token rÃÂÃÂÃÂÃÂ©gulier de petite taille pour les composants de l'interface.",
+      "type": "sizing"
+    },
+    "m": {
+      "value": 16,
+      "description": "Token rÃÂÃÂÃÂÃÂ©gulier de taille moyenne pour les composants de l'interface.",
+      "type": "sizing"
+    },
+    "l": {
+      "value": 32,
+      "description": "Token rÃÂÃÂÃÂÃÂ©gulier de taille large pour les composants de l'interface.",
+      "type": "sizing"
+    },
+    "xl": {
+      "value": 64,
+      "description": "Token rÃÂÃÂÃÂÃÂ©gulier de taille trÃÂÃÂÃÂÃÂ¨s large pour les composants de l'interface.",
+      "type": "sizing"
+    },
+    "2xl": {
+      "value": 128,
+      "description": "Token rÃÂÃÂÃÂÃÂ©gulier de taille trÃÂÃÂÃÂÃÂ¨s large pour les composants de l'interface.",
+      "type": "sizing"
+    }
+  },
+  "size-alt": {
+    "m": {
+      "value": 24,
+      "description": "Token alternatif de taille moyenne pour les composants de l'interface.",
+      "type": "sizing"
+    }
+  },
+  "spacing": {
+    "2xs": {
+      "value": 2,
+      "description": "Token rÃÂÃÂÃÂÃÂ©gulier d'espacement qui a la plus petite taille.",
+      "type": "spacing"
+    },
+    "xs": {
+      "value": 4,
+      "description": "Token rÃÂÃÂÃÂÃÂ©gulier d'espacement de trÃÂÃÂÃÂÃÂ¨s petite taille.",
+      "type": "spacing"
+    },
+    "s": {
+      "value": 8,
+      "description": "Token rÃÂÃÂÃÂÃÂ©gulier d'espacement de petite taille.",
+      "type": "spacing"
+    },
+    "m": {
+      "value": 16,
+      "description": "Token rÃÂÃÂÃÂÃÂ©gulier d'espacement de taille moyenne.",
+      "type": "spacing"
+    },
+    "l": {
+      "value": 32,
+      "description": "Token rÃÂÃÂÃÂÃÂ©gulier d'espacement de grande taille.",
+      "type": "spacing"
+    },
+    "xl": {
+      "value": 64,
+      "description": "Token rÃÂÃÂÃÂÃÂ©gulier d'espacement de trÃÂÃÂÃÂÃÂ¨s grande taille.",
+      "type": "spacing"
+    }
+  },
+  "spacing-alt-a": {
+    "s": {
+      "value": 12,
+      "description": "Token alternatif d'espacement de petite taille (variante A).",
+      "type": "spacing"
+    },
+    "m": {
+      "value": 24,
+      "description": "Token alternatif d'espacement de taille moyenne (variante A).",
+      "type": "spacing"
+    },
+    "l": {
+      "value": 48,
+      "description": "Token alternatif d'espacement de grande taille (variante A).",
+      "type": "spacing"
+    },
+    "xl": {
+      "value": 96,
+      "description": "Token alternatif d'espacement de trÃÂÃÂÃÂÃÂ¨s grande taille (variante A).",
+      "type": "spacing"
+    }
+  },
+  "spacing-alt-b": {
+    "l": {
+      "value": 40,
+      "description": "Token alternatif d'espacement de grande taille (variante B).",
+      "type": "spacing"
+    },
+    "xl": {
+      "value": 80,
+      "description": "Token alternatif d'espacement de trÃÂÃÂÃÂÃÂ¨s grande taille (variante B).",
+      "type": "spacing"
+    },
+    "2xl": {
+      "value": 160,
+      "description": "Token alternatif d'espacement de la plus grande taille (variante B).",
+      "type": "spacing"
+    }
+  },
+  "border-radius": {
+    "xs": {
+      "value": 4,
+      "description": "Rayon de bordure le plus petit.",
+      "type": "borderRadius"
+    },
+    "s": {
+      "value": 8,
+      "description": "Rayon de bordure petit, utilisÃÂÃÂÃÂÃÂ© pour les images des menus des catÃÂÃÂÃÂÃÂ©gories.",
+      "type": "borderRadius"
+    },
+    "m": {
+      "value": 24,
+      "description": "Rayon de bordure moyen, utilisÃÂÃÂÃÂÃÂ© pour les boutons et les cartes.",
+      "type": "borderRadius"
+    },
+    "l": {
+      "value": 36,
+      "description": "Rayon de bordure grand, ÃÂÃÂÃÂÃÂ  utiliser pour les cartes moyennes en carrousel.",
+      "type": "borderRadius"
+    },
+    "none": {
+      "value": 0,
+      "description": "Coins carrÃÂÃÂÃÂÃÂ©s.",
+      "type": "borderRadius"
+    }
+  },
+  "border-width": {
+    "s": {
+      "value": 1,
+      "description": "Largeur du contour petit, ÃÂÃÂÃÂÃÂ  utiliser pour les ÃÂÃÂÃÂÃÂ©lÃÂÃÂÃÂÃÂ©ments de sÃÂÃÂÃÂÃÂ©paration de l'interface.",
+      "type": "borderWidth"
+    },
+    "m": {
+      "value": 2,
+      "description": "Largeur du contour moyen, ÃÂÃÂÃÂÃÂ  utiliser pour les boutons.",
+      "type": "borderWidth"
+    }
+  },
+  "box-shadow-onlight": {
+    "active": {
+      "value": {
+        "x": 3,
+        "y": 3,
+        "blur": 0,
+        "spread": 0,
+        "color": "#c31724",
+        "type": "dropShadow"
+      },
+      "description": "Ombre portÃÂÃÂÃÂÃÂ© du bouton primaire sur fond clair en ÃÂÃÂÃÂÃÂ©tat par dÃÂÃÂÃÂÃÂ©faut.",
+      "type": "boxShadow"
+    },
+    "hover": {
+      "value": {
+        "x": 5,
+        "y": 5,
+        "blur": 0,
+        "spread": 0,
+        "color": "#c31724",
+        "type": "dropShadow"
+      },
+      "description": "Ombre portÃÂÃÂÃÂÃÂ© du bouton primaire sur fond clair en ÃÂÃÂÃÂÃÂ©tat de survol.",
+      "type": "boxShadow"
+    }
+  },
+  "box-shadow-ondark": {
+    "active": {
+      "value": {
+        "x": 3,
+        "y": 3,
+        "blur": 0,
+        "spread": 0,
+        "color": "#ffffff",
+        "type": "dropShadow"
+      },
+      "description": "Ombre portÃÂÃÂÃÂÃÂ© du bouton primaire sur fond sombre en ÃÂÃÂÃÂÃÂ©tat par dÃÂÃÂÃÂÃÂ©faut.",
+      "type": "boxShadow"
+    },
+    "hover": {
+      "value": {
+        "x": 5,
+        "y": 5,
+        "blur": 0,
+        "spread": 0,
+        "color": "#ffffff",
+        "type": "dropShadow"
+      },
+      "description": "Ombre portÃÂÃÂÃÂÃÂ© du bouton primaire sur fond sombre en ÃÂÃÂÃÂÃÂ©tat de survol.",
+      "type": "boxShadow"
+    }
+  },
+  "font-family": {
+    "primary": {
+      "value": "Arial",
+      "description": "Police ÃÂÃÂÃÂÃÂ  privilÃÂÃÂÃÂÃÂ©gier pour toutes les marques Loto-QuÃÂÃÂÃÂÃÂ©bec.",
+      "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "regular": {
+      "value": "Regular",
+      "description": "Police de caractÃÂÃÂÃÂÃÂ¨re rÃÂÃÂÃÂÃÂ©guliÃÂÃÂÃÂÃÂ¨re.",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "Medium",
+      "description": "Police de caractÃÂÃÂÃÂÃÂ¨re moyenne.",
+      "type": "fontWeights"
+    },
+    "semibold": {
+      "value": "Semibold",
+      "description": "Police de caractÃÂÃÂÃÂÃÂ¨re demi-gras.",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
+      "description": "Police de caractÃÂÃÂÃÂÃÂ¨re gras.",
+      "type": "fontWeights"
+    },
+    "black": {
+      "value": "Black",
+      "description": "Police de caractÃÂÃÂÃÂÃÂ¨re trÃÂÃÂÃÂÃÂ¨s gras.",
+      "type": "fontWeights"
+    },
+    "super": {
+      "value": "Super",
+      "description": "Police de caractÃÂÃÂÃÂÃÂ¨re noire.",
+      "type": "fontWeights"
+    }
+  },
+  "line-height": {
+    "body": {
+      "value": "150%",
+      "description": "Interlignage des paragraphes.",
+      "type": "lineHeights"
+    },
+    "heading": {
+      "value": "130%",
+      "description": "Interlignage des titres.",
+      "type": "lineHeights"
+    },
+    "display": {
+      "value": "110%",
+      "description": "Interlignage des gros titres.",
+      "type": "lineHeights"
+    }
+  },
+  "line-height-alt": {
+    "body": {
+      "value": "120%",
+      "description": "Interlignage des paragraphes serrÃÂÃÂÃÂÃÂ©.",
+      "type": "lineHeights"
+    }
+  },
+  "font-size-small": {
+    "xs": {
+      "value": 12,
+      "description": "Texte de petit format. Taille petite.",
+      "type": "fontSizes"
+    },
+    "s": {
+      "value": 14,
+      "description": "Texte de petit format. Taille rÃÂÃÂÃÂÃÂ©guliÃÂÃÂÃÂÃÂ¨re.",
+      "type": "fontSizes"
+    }
+  },
+  "font-size-small-alt": {
+    "3xs": {
+      "value": 9,
+      "description": "Texte de petit format (alternatif). Taille minimale.",
+      "type": "fontSizes"
+    },
+    "2xs": {
+      "value": 11,
+      "description": "Texte de petit format (alternatif). Taille trÃÂÃÂÃÂÃÂ¨s petite.",
+      "type": "fontSizes"
+    },
+    "xs": {
+      "value": 13,
+      "description": "Texte de petit format (alternatif). Taille petite.",
+      "type": "fontSizes"
+    },
+    "s": {
+      "value": 15,
+      "description": "Texte de petit format (alternatif). Taille reguliÃÂÃÂÃÂÃÂ¨re.",
+      "type": "fontSizes"
+    }
+  },
+  "font-size-medium": {
+    "xs": {
+      "value": 16,
+      "description": "Texte de format moyen. Taille petite.",
+      "type": "fontSizes"
+    },
+    "s": {
+      "value": 18,
+      "description": "Texte de format moyen. Taille rÃÂÃÂÃÂÃÂ©guliÃÂÃÂÃÂÃÂ¨re.",
+      "type": "fontSizes"
+    },
+    "l": {
+      "value": 20,
+      "description": "Texte de format moyen. Taille grande.",
+      "type": "fontSizes"
+    },
+    "xl": {
+      "value": 22,
+      "description": "Texte de format moyen. Taille trÃÂÃÂÃÂÃÂ¨s grande.",
+      "type": "fontSizes"
+    }
+  },
+  "font-size-medium-alt": {
+    "xs": {
+      "value": 17,
+      "description": "Texte de format moyen (alternatif). Taille petite.",
+      "type": "fontSizes"
+    }
+  },
+  "font-size-large": {
+    "xs": {
+      "value": 24,
+      "description": "Texte de grand format. Taille minimale.",
+      "type": "fontSizes"
+    },
+    "s": {
+      "value": 28,
+      "description": "Texte de grand format. Taille petite.",
+      "type": "fontSizes"
+    },
+    "m": {
+      "value": 32,
+      "description": "Texte de grand format. Taille rÃÂÃÂÃÂÃÂ©guliÃÂÃÂÃÂÃÂ¨re.",
+      "type": "fontSizes"
+    },
+    "l": {
+      "value": 42,
+      "description": "Texte de grand format. Taille grande.",
+      "type": "fontSizes"
+    }
+  },
+  "letter-spacing": {
+    "xs": {
+      "value": "-2%",
+      "description": "Interlettrage extra petit.",
+      "type": "letterSpacing"
+    },
+    "s": {
+      "value": "-1%",
+      "description": "Interlettrage petit.",
+      "type": "letterSpacing"
+    },
+    "m": {
+      "value": "0%",
+      "description": "Interlettrage rÃÂÃÂÃÂÃÂ©gulier.",
+      "type": "letterSpacing"
+    },
+    "l": {
+      "value": "1%",
+      "description": "Interlettrage grande.",
+      "type": "letterSpacing"
+    },
+    "xl": {
+      "value": "2%",
+      "description": "Interlettrage extra grande.",
+      "type": "letterSpacing"
+    }
+  },
+  "paragraph-spacing": {
+    "none": {
+      "value": "none",
+      "description": "La sÃÂÃÂÃÂÃÂ©paration entre paragraphes/titres est ÃÂÃÂÃÂÃÂ©gale ÃÂÃÂÃÂÃÂ  zÃÂÃÂÃÂÃÂ©ro.",
+      "type": "paragraphSpacing"
+    },
+    "body": {
+      "value": "8%",
+      "description": "SÃÂÃÂÃÂÃÂ©paration entre paragraphes.",
+      "type": "paragraphSpacing"
+    },
+    "heading": {
+      "value": "12%",
+      "description": "SÃÂÃÂÃÂÃÂ©paration entre titres.",
+      "type": "paragraphSpacing"
+    },
+    "display": {
+      "value": "16%",
+      "description": "SÃÂÃÂÃÂÃÂ©paration entre gros titres.",
+      "type": "paragraphSpacing"
+    }
+  },
+  "display": {
+    "display-1": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Super"
+      },
+      "lineHeight": {
+        "value": "110%"
+      },
+      "fontSize": {
+        "value": 42
+      },
+      "letterSpacing": {
+        "value": "1%"
+      },
+      "paragraphSpacing": {
+        "value": "16%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    },
+    "display-2": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Super"
+      },
+      "lineHeight": {
+        "value": "110%"
+      },
+      "fontSize": {
+        "value": 32
+      },
+      "letterSpacing": {
+        "value": "1%"
+      },
+      "paragraphSpacing": {
+        "value": "16%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    },
+    "display-3": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Super"
+      },
+      "lineHeight": {
+        "value": "110%"
+      },
+      "fontSize": {
+        "value": 28
+      },
+      "letterSpacing": {
+        "value": "1%"
+      },
+      "paragraphSpacing": {
+        "value": "16%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    },
+    "display-4": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "110%"
+      },
+      "fontSize": {
+        "value": 12
+      },
+      "letterSpacing": {
+        "value": "1%"
+      },
+      "paragraphSpacing": {
+        "value": "16%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    }
+  },
+  "text-case": {
+    "none": {
+      "value": "none",
+      "description": " La casse des textes par dÃÂÃÂÃÂÃÂ©faut.",
+      "type": "textCase"
+    },
+    "capitalize": {
+      "value": "capitalize",
+      "description": "Le premier caractÃÂÃÂÃÂÃÂ¨re des textes est en majuscules.",
+      "type": "textCase"
+    },
+    "uppercase": {
+      "value": "uppercase",
+      "description": "La casse des textes est en majuscules.",
+      "type": "textCase"
+    },
+    "lowercase": {
+      "value": "lowercase",
+      "description": "La casse des textes est en minuscules.",
+      "type": "textCase"
+    }
+  },
+  "headings": {
+    "heading-1": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "130%"
+      },
+      "fontSize": {
+        "value": 22
+      },
+      "letterSpacing": {
+        "value": "0%"
+      },
+      "paragraphSpacing": {
+        "value": "12%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    },
+    "heading-2": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Black"
+      },
+      "lineHeight": {
+        "value": "130%"
+      },
+      "fontSize": {
+        "value": 20
+      },
+      "letterSpacing": {
+        "value": "0%"
+      },
+      "paragraphSpacing": {
+        "value": "12%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    },
+    "heading-3": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "130%"
+      },
+      "fontSize": {
+        "value": 18
+      },
+      "letterSpacing": {
+        "value": "0%"
+      },
+      "paragraphSpacing": {
+        "value": "12%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    },
+    "heading-4": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Medium"
+      },
+      "lineHeight": {
+        "value": "130%"
+      },
+      "fontSize": {
+        "value": 17
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "12%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    },
+    "heading-5": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Black"
+      },
+      "lineHeight": {
+        "value": "130%"
+      },
+      "fontSize": {
+        "value": 16
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "12%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    }
+  },
+  "body": {
+    "body-1": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "150%"
+      },
+      "fontSize": {
+        "value": 15
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "8%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    },
+    "body-2": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "150%"
+      },
+      "fontSize": {
+        "value": 14
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "8%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    },
+    "body-3": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "150%"
+      },
+      "fontSize": {
+        "value": 13
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "8%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    },
+    "body-4": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "150%"
+      },
+      "fontSize": {
+        "value": 12
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "8%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    },
+    "body-5": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "150%"
+      },
+      "fontSize": {
+        "value": 11
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "8%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    },
+    "body-6": {
+      "fontFamily": {
+        "value": "Arial"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": "150%"
+      },
+      "fontSize": {
+        "value": 9
+      },
+      "letterSpacing": {
+        "value": "-1%"
+      },
+      "paragraphSpacing": {
+        "value": "8%"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
+      }
+    }
+  },
+  "theme": {
+    "bg": {
+      "value": "#ffffff",
+      "description": "Couleur du fond (background).",
+      "type": "color"
+    },
+    "titres": {
+      "value": "#c31724",
+      "description": "Couleur de la figure (foreground).",
+      "type": "color"
+    },
+    "textes": {
+      "value": "#020a30",
+      "description": "Couleur des textes.",
+      "type": "color"
+    },
+    "bg-btn": {
+      "value": "#24c1fd",
+      "description": "Couleur du fond du bouton.",
+      "type": "color"
+    },
+    "input": {
+      "value": "#f2f7fc",
+      "description": "Couleur des champs de saisie.",
+      "type": "color"
+    },
+    "stroke": {
+      "value": "#dce2ed",
+      "description": "Couleur des bordures.",
+      "type": "color"
+    },
+    "txt-btn": {
+      "value": "#c31724",
+      "description": "Couleur des textes du bouton.",
+      "type": "color"
+    }
+  },
+  "box-shadow": {
+    "none": {
+      "value": {
+        "x": 0,
+        "y": 0,
+        "blur": 0,
+        "spread": 0,
+        "color": "#000000",
+        "type": "dropShadow"
+      },
+      "description": "Pas d'ombre.",
+      "type": "boxShadow"
+    }
+  },
+  "button": {
+    "value": 0,
+    "type": "borderRadius"
+  }
+}
