@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 02 Feb 2022 03:56:15 GMT
+// Generated on Wed, 02 Feb 2022 23:11:56 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -89,13 +89,14 @@
 #define BorderRadiusM 24
 #define BorderRadiusL 36
 #define BorderRadiusNone 0
+#define BorderRadiusCta 24
 #define BorderWidthS 1
 #define BorderWidthM 2
 #define BoxShadowOnlightActive [object Object]
 #define BoxShadowOnlightHover [object Object]
 #define BoxShadowOndarkActive [object Object]
 #define BoxShadowOndarkHover [object Object]
-#define FontFamilyPrimary Abel
+#define FontFamilyPrimary Times New Roman
 #define FontWeightRegular Regular
 #define FontWeightMedium Medium
 #define FontWeightSemibold Semibold
@@ -130,7 +131,7 @@
 #define ParagraphSpacingBody 8%
 #define ParagraphSpacingHeading 12%
 #define ParagraphSpacingDisplay 16%
-#define DisplayDisplay1FontFamily Abel
+#define DisplayDisplay1FontFamily Times New Roman
 #define DisplayDisplay1FontWeight Super
 #define DisplayDisplay1LineHeight 110%
 #define DisplayDisplay1FontSize 48
@@ -138,7 +139,7 @@
 #define DisplayDisplay1ParagraphSpacing 16%
 #define DisplayDisplay1TextDecoration none
 #define DisplayDisplay1TextCase none
-#define DisplayDisplay2FontFamily Abel
+#define DisplayDisplay2FontFamily Times New Roman
 #define DisplayDisplay2FontWeight Super
 #define DisplayDisplay2LineHeight 110%
 #define DisplayDisplay2FontSize 38
@@ -146,7 +147,7 @@
 #define DisplayDisplay2ParagraphSpacing 16%
 #define DisplayDisplay2TextDecoration none
 #define DisplayDisplay2TextCase none
-#define DisplayDisplay3FontFamily Abel
+#define DisplayDisplay3FontFamily Times New Roman
 #define DisplayDisplay3FontWeight Super
 #define DisplayDisplay3LineHeight 110%
 #define DisplayDisplay3FontSize 34
@@ -154,7 +155,7 @@
 #define DisplayDisplay3ParagraphSpacing 16%
 #define DisplayDisplay3TextDecoration none
 #define DisplayDisplay3TextCase none
-#define DisplayDisplay4FontFamily Abel
+#define DisplayDisplay4FontFamily Times New Roman
 #define DisplayDisplay4FontWeight Regular
 #define DisplayDisplay4LineHeight 110%
 #define DisplayDisplay4FontSize 18
@@ -166,7 +167,7 @@
 #define TextCaseCapitalize capitalize
 #define TextCaseUppercase uppercase
 #define TextCaseLowercase lowercase
-#define HeadingsHeading1FontFamily Abel
+#define HeadingsHeading1FontFamily Times New Roman
 #define HeadingsHeading1FontWeight Regular
 #define HeadingsHeading1LineHeight 130%
 #define HeadingsHeading1FontSize 28
@@ -174,7 +175,7 @@
 #define HeadingsHeading1ParagraphSpacing 12%
 #define HeadingsHeading1TextDecoration none
 #define HeadingsHeading1TextCase none
-#define HeadingsHeading2FontFamily Abel
+#define HeadingsHeading2FontFamily Times New Roman
 #define HeadingsHeading2FontWeight Regular
 #define HeadingsHeading2LineHeight 130%
 #define HeadingsHeading2FontSize 26
@@ -182,7 +183,7 @@
 #define HeadingsHeading2ParagraphSpacing 12%
 #define HeadingsHeading2TextDecoration none
 #define HeadingsHeading2TextCase none
-#define HeadingsHeading3FontFamily Abel
+#define HeadingsHeading3FontFamily Times New Roman
 #define HeadingsHeading3FontWeight Regular
 #define HeadingsHeading3LineHeight 130%
 #define HeadingsHeading3FontSize 24
@@ -190,7 +191,7 @@
 #define HeadingsHeading3ParagraphSpacing 12%
 #define HeadingsHeading3TextDecoration none
 #define HeadingsHeading3TextCase none
-#define HeadingsHeading4FontFamily Abel
+#define HeadingsHeading4FontFamily Times New Roman
 #define HeadingsHeading4FontWeight Medium
 #define HeadingsHeading4LineHeight 130%
 #define HeadingsHeading4FontSize 17
@@ -198,7 +199,7 @@
 #define HeadingsHeading4ParagraphSpacing 12%
 #define HeadingsHeading4TextDecoration none
 #define HeadingsHeading4TextCase none
-#define HeadingsHeading5FontFamily Abel
+#define HeadingsHeading5FontFamily Times New Roman
 #define HeadingsHeading5FontWeight Black
 #define HeadingsHeading5LineHeight 130%
 #define HeadingsHeading5FontSize 22
@@ -214,7 +215,7 @@
 #define HeadingsTestParagraphSpacing 0
 #define HeadingsTestTextDecoration none
 #define HeadingsTestTextCase none
-#define BodyBody1FontFamily Abel
+#define BodyBody1FontFamily Times New Roman
 #define BodyBody1FontWeight Regular
 #define BodyBody1LineHeight 150%
 #define BodyBody1FontSize 15
@@ -222,7 +223,7 @@
 #define BodyBody1ParagraphSpacing 8%
 #define BodyBody1TextDecoration none
 #define BodyBody1TextCase none
-#define BodyBody2FontFamily Abel
+#define BodyBody2FontFamily Times New Roman
 #define BodyBody2FontWeight Regular
 #define BodyBody2LineHeight 150%
 #define BodyBody2FontSize 20
@@ -230,7 +231,7 @@
 #define BodyBody2ParagraphSpacing 8%
 #define BodyBody2TextDecoration none
 #define BodyBody2TextCase none
-#define BodyBody3FontFamily Abel
+#define BodyBody3FontFamily Times New Roman
 #define BodyBody3FontWeight Regular
 #define BodyBody3LineHeight 150%
 #define BodyBody3FontSize 13
@@ -238,7 +239,7 @@
 #define BodyBody3ParagraphSpacing 8%
 #define BodyBody3TextDecoration none
 #define BodyBody3TextCase none
-#define BodyBody4FontFamily Abel
+#define BodyBody4FontFamily Times New Roman
 #define BodyBody4FontWeight Regular
 #define BodyBody4LineHeight 150%
 #define BodyBody4FontSize 18
@@ -246,7 +247,7 @@
 #define BodyBody4ParagraphSpacing 8%
 #define BodyBody4TextDecoration none
 #define BodyBody4TextCase none
-#define BodyBody5FontFamily Abel
+#define BodyBody5FontFamily Times New Roman
 #define BodyBody5FontWeight Regular
 #define BodyBody5LineHeight 150%
 #define BodyBody5FontSize 11
@@ -254,7 +255,7 @@
 #define BodyBody5ParagraphSpacing 8%
 #define BodyBody5TextDecoration none
 #define BodyBody5TextCase none
-#define BodyBody6FontFamily Abel
+#define BodyBody6FontFamily Times New Roman
 #define BodyBody6FontWeight Regular
 #define BodyBody6LineHeight 150%
 #define BodyBody6FontSize 9
@@ -265,10 +266,9 @@
 #define ThemeBg #ffffff
 #define ThemeTitres #192872
 #define ThemeTextes #020a30
-#define ThemeBgBtn #24c1fd
+#define ThemeCtaBackground #24c1fd
 #define ThemeInput #f2f7fc
 #define ThemeStroke #dce2ed
-#define ThemeTxtBtn #192872
+#define ThemeCtaText #192872
 #define BoxShadowNone [object Object]
-#define Button 24
 

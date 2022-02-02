@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 02 Feb 2022 03:56:15 GMT
+// Generated on Wed, 02 Feb 2022 23:11:56 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -89,6 +89,7 @@
 #define BorderRadiusM 24
 #define BorderRadiusL 36
 #define BorderRadiusNone 0
+#define BorderRadiusCta 0
 #define BorderWidthS 1
 #define BorderWidthM 2
 #define BoxShadowOnlightActive [object Object]
@@ -257,10 +258,9 @@
 #define ThemeBg #ffffff
 #define ThemeTitres #c31724
 #define ThemeTextes #020a30
-#define ThemeBgBtn #24c1fd
+#define ThemeCtaBackground #24c1fd
 #define ThemeInput #f2f7fc
 #define ThemeStroke #dce2ed
-#define ThemeTxtBtn #c31724
+#define ThemeCtaText #c31724
 #define BoxShadowNone [object Object]
-#define Button 0
 

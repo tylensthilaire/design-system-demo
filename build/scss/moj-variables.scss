@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Wed, 02 Feb 2022 03:56:15 GMT
+// Generated on Wed, 02 Feb 2022 23:11:56 GMT
 
 $color-primary-100: #c317241a;
 $color-primary-200: #c3172433;
@@ -56,12 +56,12 @@ $colors-ui-darker: #020a30;
 $colors-ui-lighter: #ffffff;
 $colors-ui-stroke: #dce2ed;
 $colors-ui-background: #f2f7fc;
-$size-xs: 4rem;
-$size-s: 8rem;
-$size-m: 16rem;
-$size-l: 32rem;
-$size-xl: 64rem;
-$size-2xl: 128rem;
+$size-xs: 4px;
+$size-s: 8px;
+$size-m: 16px;
+$size-l: 32px;
+$size-xl: 64px;
+$size-2xl: 128px;
 $size-alt-m: 24;
 $spacing-2xs: 2;
 $spacing-xs: 4;
@@ -81,12 +81,13 @@ $border-radius-s: 8;
 $border-radius-m: 24;
 $border-radius-l: 36;
 $border-radius-none: 0;
+$border-radius-cta: 0;
 $border-width-s: 1;
 $border-width-m: 2;
-$box-shadow-onlight-active: 3 3 0 0 #c31724;
-$box-shadow-onlight-hover: 5 5 0 0 #c31724;
-$box-shadow-ondark-active: 3 3 0 0 #ffffff;
-$box-shadow-ondark-hover: 5 5 0 0 #ffffff;
+$box-shadow-onlight-active: 3px 3px 0px 0px #c31724;
+$box-shadow-onlight-hover: 5px 5px 0px 0px #c31724;
+$box-shadow-ondark-active: 3px 3px 0px 0px #ffffff;
+$box-shadow-ondark-hover: 5px 5px 0px 0px #ffffff;
 $font-family-primary: Arial;
 $font-weight-regular: Regular;
 $font-weight-medium: Medium;
@@ -249,9 +250,8 @@ $body-body-6-text-case: none;
 $theme-bg: #ffffff;
 $theme-titres: #c31724;
 $theme-textes: #020a30;
-$theme-bg-btn: #24c1fd;
+$theme-cta-background: #24c1fd;
 $theme-input: #f2f7fc;
 $theme-stroke: #dce2ed;
-$theme-txt-btn: #c31724;
-$box-shadow-none: 0 0 0 0 #000000;
-$button: 0;
+$theme-cta-text: #c31724;
+$box-shadow-none: 0px 0px 0px 0px #000000;
