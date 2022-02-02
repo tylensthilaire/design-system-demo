@@ -938,7 +938,7 @@
         "description": "Couleur des textes.",
         "type": "color"
       },
-      "bg-btn": {
+      "cta-background": {
         "value": "$color-tertiary.tertiary",
         "description": "Couleur du fond du bouton.",
         "type": "color"
@@ -953,7 +953,7 @@
         "description": "Couleur des bordures.",
         "type": "color"
       },
-      "txt-btn": {
+      "cta-text": {
         "value": "$color-primary.primary",
         "description": "Couleur des textes du bouton.",
         "type": "color"
@@ -1464,7 +1464,7 @@
     },
     "font-family": {
       "primary": {
-        "value": "Abel",
+        "value": "Times New Roman",
         "description": "Police ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  privilÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©gier pour toutes les marques Loto-QuÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©bec.",
         "type": "fontFamilies"
       }
@@ -1926,7 +1926,7 @@
         "description": "Couleur des textes.",
         "type": "color"
       },
-      "bg-btn": {
+      "cta-background": {
         "value": "$color-tertiary.tertiary",
         "description": "Couleur du fond du bouton.",
         "type": "color"
@@ -1941,7 +1941,7 @@
         "description": "Couleur des bordures.",
         "type": "color"
       },
-      "txt-btn": {
+      "cta-text": {
         "value": "$color-primary.primary",
         "description": "Couleur des textes du bouton.",
         "type": "color"
